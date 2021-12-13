@@ -5,4 +5,4 @@ Practice purposes. Playlist URL: https://www.youtube.com/watch?v=X47zIAGIJNE&lis
 ## Widgets List
 
 1. Container > Simple intro > Neumorphic design
-2.
+2. Expanded > flux >
