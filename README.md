@@ -2,7 +2,7 @@
 
 Practice purposes. Playlist URL: https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd
 
-## Getting Started
+## Widgets List
 
-1. Container
-2. 
+1. Container > Simple intro > Neumorphic design
+2.
