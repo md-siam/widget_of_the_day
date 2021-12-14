@@ -9,7 +9,7 @@ Practice purposes.<br> Playlist URL: [YouTube](https://www.youtube.com/watch?v=X
 3. [Column](/lib/3_column&row) > mainAxisAlignment & crossAxisAlignment<br>
    Row > alignment
 4. [ListView](/lib/4_listview&builder) > Builder > Instagram UI design
-5. [Cliprrect] (Clip Round Rectangle) > wrap the container with this widget for getting a rounded corner
-6. [Image.Asset] > fit (BoxFit.cover) > place it inside a Container widget for rounded corners
-7. [Gridview] > Builder > crossAxisCount (no. of box in the horizontal)
-8. [GestureDetector] > onTap:()=>{action} > Keep functional logic seperated from UI
+5. [Cliprrect](/lib/5_cliprrect) (Clip Round Rectangle) > wrap the container with this widget for getting a rounded corner
+6. [Image.Asset](/lib/6_image.asset) > fit (BoxFit.cover) > place it inside a Container widget for rounded corners
+7. [Gridview](/lib/7_gridview&builder) > Builder > crossAxisCount (no. of box in the horizontal)
+8. [GestureDetector](/lib/8_gesturedetector) > onTap:()=>{'action'} > Keep functional logic seperated from UI
