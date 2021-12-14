@@ -6,6 +6,7 @@ Practice purposes. Playlist URL: https://www.youtube.com/watch?v=X47zIAGIJNE&lis
 
 1. Container > Simple intro > Neumorphic design
 2. Expanded > flux > layout change inside Column & Row
-3. Column > mainAxisAlignment & crossAxisAlignment
+3. Column > mainAxisAlignment & crossAxisAlignment<br>
    Row > alignment
-4. ListView > Builder > Instragram UI design
+4. ListView > Builder > Instagram UI design
+5. Cliprrect (Clip Round Rectangle) > wrap the container with this widget for getting a rounded corner.
