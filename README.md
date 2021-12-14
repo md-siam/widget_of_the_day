@@ -5,4 +5,7 @@ Practice purposes. Playlist URL: https://www.youtube.com/watch?v=X47zIAGIJNE&lis
 ## Widgets List
 
 1. Container > Simple intro > Neumorphic design
-2. Expanded > flux >
+2. Expanded > flux > layout change inside Column & Row
+3. Column > mainAxisAlignment & crossAxisAlignment
+   Row >
+4.
