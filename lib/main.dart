@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:widget_of_the_day/8_gesturedetector/gesturedetector.dart';
 import '1_container/container.dart';
 import '2_expanded/expanded.dart';
 import '3_column&row/column.dart';
@@ -28,7 +29,8 @@ class MyApp extends StatelessWidget {
       //home: MyListViwe(),
       //home: const MyCliprrect(),
       //home: const MyImageAsset(),
-      home: const MyGridView(),
+      //home: const MyGridView(),
+      home: const MyGestureDetector(),
     );
   }
 }
