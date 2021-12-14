@@ -1,6 +1,6 @@
 # widget_of_the_day
 
-Practice purposes.<br> Playlist URL: https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd
+Practice purposes.<br> Playlist URL: (YouTube)[https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd]
 
 ## Widgets List
 
@@ -11,3 +11,4 @@ Practice purposes.<br> Playlist URL: https://www.youtube.com/watch?v=X47zIAGIJNE
 4. ListView > Builder > Instagram UI design
 5. Cliprrect (Clip Round Rectangle) > wrap the container with this widget for getting a rounded corner
 6. Image.Asset > fit (BoxFit.cover) > place it inside a Container widget for rounded corners
+7. Gridview > Builder > crossAxisCount (no. of box in the horizontal)

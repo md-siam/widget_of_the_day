@@ -6,6 +6,7 @@ import '3_column&row/row.dart';
 import '4_listview&builder/listview.dart';
 import '5_cliprrect/cliprrect.dart';
 import '6_image.asset/image_asset.dart';
+import '7_gridview&builder/gridview.dart';
 
 void main() {
   runApp(const MyApp());
@@ -26,7 +27,8 @@ class MyApp extends StatelessWidget {
       //home: const MyRow(),
       //home: MyListViwe(),
       //home: const MyCliprrect(),
-      home: const MyImageAsset(),
+      //home: const MyImageAsset(),
+      home: const MyGridView(),
     );
   }
 }
