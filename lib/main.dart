@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:widget_of_the_day/5_cliprrect/cliprrect.dart';
 import '1_container/container.dart';
 import '2_expanded/expanded.dart';
 import '3_column&row/column.dart';
 import '3_column&row/row.dart';
 import '4_listview&builder/listview.dart';
+import '5_cliprrect/cliprrect.dart';
+import '6_image.asset/image_asset.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget {
       //home: const MyRow(),
       //home: MyListViwe(),
       //home: const MyCliprrect(),
-      home: const MyCliprrect(),
+      home: const MyImageAsset(),
     );
   }
 }

@@ -1,6 +1,6 @@
 # widget_of_the_day
 
-Practice purposes. Playlist URL: https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd
+Practice purposes.<br> Playlist URL: https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd
 
 ## Widgets List
 
@@ -9,4 +9,5 @@ Practice purposes. Playlist URL: https://www.youtube.com/watch?v=X47zIAGIJNE&lis
 3. Column > mainAxisAlignment & crossAxisAlignment<br>
    Row > alignment
 4. ListView > Builder > Instagram UI design
-5. Cliprrect (Clip Round Rectangle) > wrap the container with this widget for getting a rounded corner.
+5. Cliprrect (Clip Round Rectangle) > wrap the container with this widget for getting a rounded corner
+6. Image.Asset > fit (BoxFit.cover) > place it inside a Container widget for rounded corners
