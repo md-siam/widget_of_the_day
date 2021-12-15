@@ -12,6 +12,7 @@ import '9_bottom-nav_bar/bottomnavbar.dart';
 import '10_appbar/appbar.dart';
 import '11_drawer/drawer.dart';
 import '12_sliver-appbar/sliverappbar.dart';
+import '13_tabbar/tabbar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -38,7 +39,8 @@ class MyApp extends StatelessWidget {
       //home: const MyBottomNavBar(),
       //home: const MyAppBar(),
       //home: const MyDrawer(),
-      home: const MySliverAppBar(),
+      //home: const MySliverAppBar(),
+      home: const MyTabBar(),
     );
   }
 }
