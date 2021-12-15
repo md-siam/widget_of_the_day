@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import '/9_bottom-nav_bar/pages/account.dart';
 import '/9_bottom-nav_bar/pages/home.dart';
 import '/9_bottom-nav_bar/pages/message.dart';
 import '/9_bottom-nav_bar/pages/settings.dart';
+import '/9_bottom-nav_bar/pages/account.dart';
 
 class MyBottomNavBar extends StatefulWidget {
   const MyBottomNavBar({Key? key}) : super(key: key);
