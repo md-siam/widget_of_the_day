@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:widget_of_the_day/8_gesturedetector/gesturedetector.dart';
 import '1_container/container.dart';
 import '2_expanded/expanded.dart';
 import '3_column&row/column.dart';
@@ -8,6 +7,8 @@ import '4_listview&builder/listview.dart';
 import '5_cliprrect/cliprrect.dart';
 import '6_image.asset/image_asset.dart';
 import '7_gridview&builder/gridview.dart';
+import '8_gesturedetector/gesturedetector.dart';
+import '9_bottom-nav_bar/bottomnavbar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -30,7 +31,8 @@ class MyApp extends StatelessWidget {
       //home: const MyCliprrect(),
       //home: const MyImageAsset(),
       //home: const MyGridView(),
-      home: const MyGestureDetector(),
+      //home: const MyGestureDetector(),
+      home: const MyBottomNavBar(),
     );
   }
 }
