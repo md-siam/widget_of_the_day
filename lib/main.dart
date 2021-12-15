@@ -1,18 +1,5 @@
 import 'package:flutter/material.dart';
-import '1_container/container.dart';
-import '2_expanded/expanded.dart';
-import '3_column&row/column.dart';
-import '3_column&row/row.dart';
-import '4_listview&builder/listview.dart';
-import '5_cliprrect/cliprrect.dart';
-import '6_image.asset/image_asset.dart';
-import '7_gridview&builder/gridview.dart';
-import '8_gesturedetector/gesturedetector.dart';
-import '9_bottom-nav_bar/bottomnavbar.dart';
-import '10_appbar/appbar.dart';
-import '11_drawer/drawer.dart';
-import '12_sliver-appbar/sliverappbar.dart';
-import '13_tabbar/tabbar.dart';
+import 'routes.dart';
 
 void main() {
   runApp(const MyApp());
