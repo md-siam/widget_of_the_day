@@ -18,5 +18,5 @@ Practice purposes.<br> Playlist URL: [YouTube](https://www.youtube.com/watch?v=X
 11. [Drawer](/lib/11_drawer/drawer.dart) > Always in ListView > DrawerHeader > ListTile > endDrawer (drawer on right side)
 12. [SliverAppBar](/lib/12_sliver-appbar/sliverappbar.dart) > CustomScrollView > SliverAppBar > expandedHeight > SliverToBoxAdapter <br>
     Property of SliverAppBar: flexibleSpace > floating (default 'false') > pinned (default 'false')
-13. [TabBar](/lib/13_tapbar/tapbar.dart) > wrap Scaffold with 'DefaultTabController' > length (no. of items) > TabBar <br>
+13. [TabBar](/lib/13_tabbar/tabbar.dart) > wrap Scaffold with 'DefaultTabController' > length (no. of items) > TabBar <br>
     TabBarView > Container > wrap TabBarView with 'Expanded' for Container size
