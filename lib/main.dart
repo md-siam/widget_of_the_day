@@ -9,6 +9,7 @@ import '6_image.asset/image_asset.dart';
 import '7_gridview&builder/gridview.dart';
 import '8_gesturedetector/gesturedetector.dart';
 import '9_bottom-nav_bar/bottomnavbar.dart';
+import '10_appbar/appbar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -32,7 +33,8 @@ class MyApp extends StatelessWidget {
       //home: const MyImageAsset(),
       //home: const MyGridView(),
       //home: const MyGestureDetector(),
-      home: const MyBottomNavBar(),
+      //home: const MyBottomNavBar(),
+      home: const MyAppBar(),
     );
   }
 }
