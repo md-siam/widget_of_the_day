@@ -10,12 +10,14 @@ class MyAppBar extends StatelessWidget {
         backgroundColor: Colors.deepPurple[300],
         elevation: 0,
         title: const Text("A P P B A R"),
+        // left positioned
         leading: IconButton(
           onPressed: () => {
-            // open menu
+            // open menu drawer
           },
           icon: const Icon(Icons.menu),
         ),
+        // right positioned
         actions: [
           IconButton(
             onPressed: () => {
