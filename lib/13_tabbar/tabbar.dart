@@ -45,7 +45,7 @@ class MyTabBar extends StatelessWidget {
                   FirstTab(),
                   // 2nd tab
                   SecondTab(),
-                  //3rd tab
+                  // 3rd tab
                   ThirdTab(),
                 ],
               ),
