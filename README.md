@@ -20,3 +20,4 @@ Practice purposes.<br> Playlist URL: [YouTube](https://www.youtube.com/watch?v=X
     Property of SliverAppBar: flexibleSpace > floating (default 'false') > pinned (default 'false')
 13. [TabBar](/lib/13_tabbar/tabbar.dart) > wrap Scaffold with 'DefaultTabController' > length (no. of items) > TabBar <br>
     TabBarView > Container > wrap TabBarView with 'Expanded' for Container size
+14. [AnimatedContainer](/lib/14_animated-container/animatedcontainer.dart) > GestureDetector > onTap (activate animation) > duration (time to execute animation in 'second') > Container > Alignment

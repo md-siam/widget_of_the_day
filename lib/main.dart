@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
       //home: const MyAppBar(),
       //home: const MyDrawer(),
       //home: const MySliverAppBar(),
-      home: const MyTabBar(),
+      home: const MyAnimatedContainer(),
     );
   }
 }
