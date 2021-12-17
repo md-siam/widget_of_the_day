@@ -10,7 +10,7 @@ class SecondTab extends StatelessWidget {
       child: const Center(
         child: Text(
           "2ND TAB",
-          style: TextStyle(fontSize: 24),
+          style: TextStyle(fontSize: 24, color:Colors.white),
         ),
       ),
     );

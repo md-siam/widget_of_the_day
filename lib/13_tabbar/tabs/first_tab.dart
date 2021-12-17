@@ -10,7 +10,7 @@ class FirstTab extends StatelessWidget {
       child: const Center(
         child: Text(
           "1ST TAB",
-          style: TextStyle(fontSize: 24),
+          style: TextStyle(fontSize: 24, color:Colors.white),
         ),
       ),
     );
