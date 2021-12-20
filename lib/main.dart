@@ -32,7 +32,8 @@ class MyApp extends StatelessWidget {
       //home: const MyAlertDialog(),
       //home: const MyTextStyle(),
       //home: const MyRichText(),
-      home: const MyTimer(),
+      //home: const MyTimer(),
+      home: MyPageView(),
     );
   }
 }
