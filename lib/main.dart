@@ -37,7 +37,8 @@ class MyApp extends StatelessWidget {
       //home: const MyStack(),
       //home: const MyTextField(),
       //home: const MyAnimatedIcon(),
-      home: const MySlider(),
+      //home: const MySlider(),
+      home: const MyDatePicker(),
     );
   }
 }

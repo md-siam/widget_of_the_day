@@ -23,3 +23,4 @@ export '21_stack/stack.dart';
 export '22_textfield/textfield.dart';
 export '23_animated_icon/animated_icon.dart';
 export '24_slider/slider.dart';
+export '25_date_picker/date_picker.dart';
