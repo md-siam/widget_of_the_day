@@ -21,3 +21,4 @@ Practice purposes.<br> Playlist URL: [YouTube](https://www.youtube.com/watch?v=X
 13. [TabBar](/lib/13_tabbar/tabbar.dart) > wrap Scaffold with 'DefaultTabController' > length (no. of items) > TabBar <br>
     TabBarView > Container > wrap TabBarView with 'Expanded' for Container size
 14. [AnimatedContainer](/lib/14_animated-container/animatedcontainer.dart) > GestureDetector > onTap (activate animation) > duration (time to execute animation in 'second') > Container > Alignment
+15. [MediaQuery](/lib/15_media_query/mediaquery.dart) > Height > Width > Aspect Ratio > Orientation
