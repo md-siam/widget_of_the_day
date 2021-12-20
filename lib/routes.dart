@@ -21,3 +21,4 @@ export '19_timer/timer.dart';
 export '20_pageview/pageview.dart';
 export '21_stack/stack.dart';
 export '22_textfield/textfield.dart';
+export '23_animated_icon/animated_icon.dart';

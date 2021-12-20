@@ -3,7 +3,7 @@
 <img align="right" src="assets/playstore.png" height="200"></img>
 Introduction to flutter widgets: This repo will teach you some of the common widgets that are available in flutter SDK, & how to use them for UI design.<br> Playlist URL: [YouTube](https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd)
 
-## Widgets List
+## Widgets List:
 
 1. [Container](/lib/1_container/container.dart) > Simple intro > Neumorphic design
 2. [Expanded](/lib/2_expanded/expanded.dart) > flux > layout change inside Column & Row
@@ -30,3 +30,4 @@ Introduction to flutter widgets: This repo will teach you some of the common wid
 20. [PageView](/lib/20_pageview/pageview.dart) > controller > scrollDirection: Axis.vertical > different Post pages
 21. [Stack](/lib/21_stack/stack.dart) > alignment: Alignment.center (default Alignment.topLeft)
 22. [TextField](/lib/22_textfield/textfield.dart) > StatefulWidget > \_textController > TextField > controller: \_textController > decoration > onPressed > suffixIcon > \_textController.clear() > Expanded > userPost
+23. [AnimatedIcon](/lib/23_animated_icon/animated_icon.dart) > StatefulWidget > with SingleTickerProviderStateMixin > late AnimationController \_animationController > Read the documentation

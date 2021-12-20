@@ -35,7 +35,8 @@ class MyApp extends StatelessWidget {
       //home: const MyTimer(),
       //home: MyPageView(),
       //home: const MyStack(),
-      home: const MyTextField(),
+      //home: const MyTextField(),
+      home: const MyAnimatedIcon(),
     );
   }
 }
