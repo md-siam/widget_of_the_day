@@ -17,3 +17,4 @@ export '15_media_query/mediaquery.dart';
 export '16_alert_dialog/alertdialog.dart';
 export '17_text&styling/text_n_styling.dart';
 export '18_rich_text/richtext.dart';
+export '19_timer/timer.dart';
