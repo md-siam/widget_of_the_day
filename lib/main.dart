@@ -33,7 +33,8 @@ class MyApp extends StatelessWidget {
       //home: const MyTextStyle(),
       //home: const MyRichText(),
       //home: const MyTimer(),
-      home: MyPageView(),
+      //home: MyPageView(),
+      home: const MyStack(),
     );
   }
 }

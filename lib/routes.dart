@@ -19,3 +19,4 @@ export '17_text&styling/text_n_styling.dart';
 export '18_rich_text/richtext.dart';
 export '19_timer/timer.dart';
 export '20_pageview/pageview.dart';
+export '21_stack/stack.dart';
