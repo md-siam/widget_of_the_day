@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'routes.dart';
 
 void main() {
@@ -29,7 +28,8 @@ class MyApp extends StatelessWidget {
       //home: const MyDrawer(),
       //home: const MySliverAppBar(),
       //home: const MyAnimatedContainer(),
-      home: const MyMediaQuery(),
+      //home: const MyMediaQuery(),
+      home: const MyAlertDialog(),
     );
   }
 }
