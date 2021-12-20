@@ -36,7 +36,8 @@ class MyApp extends StatelessWidget {
       //home: MyPageView(),
       //home: const MyStack(),
       //home: const MyTextField(),
-      home: const MyAnimatedIcon(),
+      //home: const MyAnimatedIcon(),
+      home: const MySlider(),
     );
   }
 }
