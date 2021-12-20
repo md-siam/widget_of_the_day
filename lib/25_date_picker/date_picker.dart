@@ -43,7 +43,8 @@ class _MyDatePickerState extends State<MyDatePicker> {
 
             // button
             MaterialButton(
-              onPressed: _showDatePicker,
+              // on pressed execute _showDatePicker() method
+              onPressed: _showDatePicker, 
               color: Colors.deepPurple[400],
               child: const Padding(
                 padding: EdgeInsets.all(10.0),
