@@ -1,5 +1,3 @@
-import 'dart:ui';
-
 import 'package:flutter/material.dart';
 import 'posts/post_1.dart';
 import 'posts/post_2.dart';
