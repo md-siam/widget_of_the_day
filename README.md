@@ -1,6 +1,6 @@
 # Widget of the day
 
-<img align="left" src="assets/playstore.png" height="200"></img>
+<img align="right" src="assets/playstore.png" height="150"></img>
 Practice purposes.<br> Playlist URL: [YouTube](https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd)
 
 ## Widgets List
