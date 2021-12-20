@@ -47,6 +47,8 @@ class _MyAnimatedContainerState extends State<MyAnimatedContainer> {
           onTap: _movedBox,
           child: AnimatedContainer(
             duration: const Duration(seconds: 1),
+            // curve is for effects (defaultis Curves.linear)
+            curve: Curves.bounceInOut,
             alignment: Alignment(boxX, boxY),
             child: ClipRRect(
               borderRadius: BorderRadius.circular(10),
