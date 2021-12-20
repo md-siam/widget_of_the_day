@@ -15,3 +15,4 @@ export '13_tabbar/tabbar.dart';
 export '14_animated-container/animatedcontainer.dart';
 export '15_media_query/mediaquery.dart';
 export '16_alert_dialog/alertdialog.dart';
+export '17_text&styling/text_n_styling.dart';

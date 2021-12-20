@@ -29,7 +29,8 @@ class MyApp extends StatelessWidget {
       //home: const MySliverAppBar(),
       //home: const MyAnimatedContainer(),
       //home: const MyMediaQuery(),
-      home: const MyAlertDialog(),
+      //home: const MyAlertDialog(),
+      home: const MyTextStyle(),
     );
   }
 }

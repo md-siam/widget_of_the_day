@@ -23,3 +23,4 @@ Practice purposes.<br> Playlist URL: [YouTube](https://www.youtube.com/watch?v=X
 14. [AnimatedContainer](/lib/14_animated-container/animatedcontainer.dart) > GestureDetector > onTap (activate animation) > duration (time to execute animation in 'second') > Container > Alignment
 15. [MediaQuery](/lib/15_media_query/mediaquery.dart) > Height > Width > Aspect Ratio > Orientation
 16. [AlertDialog](/lib/16_alert_dialog/alertdialog.dart) > MaterialButton > onPressed:\_showDialog > AlertDialog(title, content, actions) > CupertinoAlertDialog (for iOS device)
+17. [Text](/lib/17_text&styling/text_n_styling.dart) > style > fontStyle: FontStyle.italic > fontWeight > theme (for setting a default style)
