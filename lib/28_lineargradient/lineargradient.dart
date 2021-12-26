@@ -9,24 +9,41 @@ class MyLinearGradient extends StatelessWidget {
       appBar: AppBar(
         title: const Text('LinearGradient'),
       ),
-      body: Container(
-        decoration: const BoxDecoration(
-          gradient: LinearGradient(
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-            stops: [0.2, 0.5, 0.7, 1],
-            colors: [Colors.red, Colors.purple, Colors.yellow, Colors.blue],
-          ),
-        ),
-        child: const Center(
-          child: Text(
-            'Hello Gradient!',
-            style: TextStyle(
-              fontSize: 40,
-              fontWeight: FontWeight.bold,
-              color: Colors.white,
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          children: [
+            ClipRRect(
+              borderRadius: BorderRadius.circular(15),
+              child: Container(
+                height: 150,
+                width: 300,
+                decoration: const BoxDecoration(
+                    gradient: LinearGradient(
+                        colors: [Colors.red, Colors.blue, Colors.green])),
+              ),
             ),
-          ),
+            ClipRRect(
+              borderRadius: BorderRadius.circular(15),
+              child: Container(
+                height: 150,
+                width: 300,
+                decoration: const BoxDecoration(
+                  gradient: LinearGradient(
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                    stops: [0.2, 0.5, 0.7, 1],
+                    colors: [
+                      Colors.red,
+                      Colors.purple,
+                      Colors.yellow,
+                      Colors.blue
+                    ],
+                  ),
+                ),
+              ),
+            ),
+          ],
         ),
       ),
     );
