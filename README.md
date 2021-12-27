@@ -1,4 +1,4 @@
-# Widget of the day
+# Widget of The Day
 
 <img align="right" src="assets/playstore.png" height="200"></img>
 Introduction to flutter widgets: This repo will teach you some of the common widgets that are available in flutter SDK, & how to use them for UI design.<br>
