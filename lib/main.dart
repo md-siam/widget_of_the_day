@@ -41,7 +41,8 @@ class MyApp extends StatelessWidget {
       //home: const MyDatePicker(),
       //home: const MyTimePicker(),
       //home: const MyListWheelScrollView(),
-      home: const MyLinearGradient(),
+      //home: const MyLinearGradient(),
+      home: const MyElevatedButton(),
     );
   }
 }

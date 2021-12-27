@@ -40,3 +40,5 @@ Playlist URL:
 26. [TimePicker](/lib/26_time_picker/time_picker.dart) > StatefulWidget > TimeOfDay variable > \_showTimePicker > Read the code
 27. [ListWheelScrollView](/lib/27_listwheelscrollview/listwheelscrollview.dart) > StatefulWidget > itemExtent > perspective > diameterRatio > physics: const FixedExtentScrollPhysics() > onSelectedItemChanged > Read the code
 28. [LinearGradient](/lib/28_lineargradient/lineargradient.dart) > Container > decoration > BoxDecoration > gradient > LinearGradient
+29. [ElevatedButton](/lib/29_elevated_button/elevated_button.dart)
+    [OutlinedButton](/lib/29_elevated_button/elevated_button.dart)
