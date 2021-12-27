@@ -42,3 +42,4 @@ Playlist URL:
 28. [LinearGradient](/lib/28_lineargradient/lineargradient.dart) > Container > decoration > BoxDecoration > gradient > LinearGradient
 29. [ElevatedButton](/lib/29_elevated_button/elevated_button.dart)
     [OutlinedButton](/lib/29_elevated_button/elevated_button.dart)
+30. [FloatingActionButton](/lib/30_floating_action_button/floating_action_button.dart)
