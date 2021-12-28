@@ -30,3 +30,4 @@ export '28_lineargradient/lineargradient.dart';
 export '29_elevated_button/elevated_button.dart';
 export '30_floating_action_button/floating_action_button.dart';
 export '31_navigator/navigator.dart';
+export '32_card/card.dart';

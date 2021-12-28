@@ -44,7 +44,8 @@ class MyApp extends StatelessWidget {
       //home: const MyLinearGradient(),
       //home: const MyElevatedButton(),
       //home: const MyFloatingActionButton(),
-      home: const MyNavigator(),
+      //home: const MyNavigator(),
+      home: const MyCard(),
     );
   }
 }

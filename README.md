@@ -5,7 +5,8 @@ Introduction to flutter widgets: This repo will teach you some of the common wid
 Playlist URL:
 
 1. [YouTube](https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd)
-2. [Youtube](https://www.youtube.com/watch?v=FZiw9MWLlys) [LinearGradient]
+2. [YouTube](https://www.youtube.com/watch?v=FZiw9MWLlys) [LinearGradient]
+3. [TouTube](https://www.youtube.com/watch?v=pDnfJvh7uzc) [Card]
 
 ## Widgets List:
 
@@ -44,3 +45,4 @@ Playlist URL:
     [OutlinedButton](/lib/29_elevated_button/elevated_button.dart)
 30. [FloatingActionButton](/lib/30_floating_action_button/floating_action_button.dart)
 31. [Navigator](/lib/31_navigator/navigator.dart) > initialRoute > ElevatedButton > Navigator.pushNamed(context, '/first') > Navigator.pop(context)
+32. [Card](/lib/32_card/card.dart) > shape: RoundedRectangleBorder > borderRadius: BorderRadius.circular(20) > Column > children[] > shadowColor > elevation > 
