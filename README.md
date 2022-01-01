@@ -7,6 +7,7 @@ Playlist URL:
 1. [YouTube](https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd)
 2. [YouTube](https://www.youtube.com/watch?v=FZiw9MWLlys) [LinearGradient]
 3. [TouTube](https://www.youtube.com/watch?v=pDnfJvh7uzc) [Card]
+4. [TouTube](https://www.youtube.com/watch?v=8QdLBQhnHAQ&t=457s)[Clipper]
 
 ## Widgets List:
 
@@ -46,3 +47,4 @@ Playlist URL:
 30. [FloatingActionButton](/lib/30_floating_action_button/floating_action_button.dart)
 31. [Navigator](/lib/31_navigator/navigator.dart) > initialRoute > ElevatedButton > Navigator.pushNamed(context, '/first') > Navigator.pop(context)
 32. [Card](/lib/32_card/card.dart) > shape: RoundedRectangleBorder > borderRadius: BorderRadius.circular(20) > Column > children[] > shadowColor > elevation
+33. [Clipper](/lib/33_clipper/clipper.dart) > Custom Clipper > Quadratic Bezier Curve
