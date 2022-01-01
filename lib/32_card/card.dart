@@ -35,6 +35,7 @@ class MyCard extends StatelessWidget {
                 ),
               ),
             ),
+            const SizedBox(height: 10),
             Card(
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(20),
@@ -58,6 +59,7 @@ class MyCard extends StatelessWidget {
                 ),
               ),
             ),
+            const SizedBox(height: 10),
             Card(
               shadowColor: Colors.red,
               elevation: 8,
@@ -96,10 +98,12 @@ class MyCard extends StatelessWidget {
                 ),
               ),
             ),
+            const SizedBox(height: 10),
             Card(
+              elevation: 8,
               clipBehavior: Clip.antiAlias,
               shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(24),
+                borderRadius: BorderRadius.circular(15),
               ),
               child: Stack(
                 alignment: Alignment.center,
@@ -126,10 +130,12 @@ class MyCard extends StatelessWidget {
                 ],
               ),
             ),
+            const SizedBox(height: 10),
             Card(
+              elevation: 10,
               clipBehavior: Clip.antiAlias,
               shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(24),
+                borderRadius: BorderRadius.circular(15),
               ),
               child: Column(
                 children: [
@@ -183,6 +189,7 @@ class MyCard extends StatelessWidget {
                 ],
               ),
             ),
+            const SizedBox(height: 10),
           ],
         ),
       ),
