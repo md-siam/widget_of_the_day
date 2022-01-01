@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
       //home: const MyAnimatedContainer(),
       //home: const MyMediaQuery(),
       //home: const MyAlertDialog(),
-      //home: const MyTextStyle(),
+      home: const MyTextStyle(),
       //home: const MyRichText(),
       //home: const MyTimer(),
       //home: MyPageView(),
@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
       //home: const MyFloatingActionButton(),
       //home: const MyNavigator(),
       //home: const MyCard(),
-      home: const MyCustomClipper(),
+      //home: const MyCustomClipper(),
     );
   }
 }

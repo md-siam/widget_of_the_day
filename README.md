@@ -6,8 +6,8 @@ Playlist URL:
 
 1. [YouTube](https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd)
 2. [YouTube](https://www.youtube.com/watch?v=FZiw9MWLlys) [LinearGradient]
-3. [TouTube](https://www.youtube.com/watch?v=pDnfJvh7uzc) [Card]
-4. [TouTube](https://www.youtube.com/watch?v=8QdLBQhnHAQ&t=457s)[Clipper]
+3. [YouTube](https://www.youtube.com/watch?v=pDnfJvh7uzc) [Card]
+4. [YouTube](https://www.youtube.com/watch?v=8QdLBQhnHAQ&t=457s)[Clipper]
 
 ## Widgets List:
 
