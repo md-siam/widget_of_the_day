@@ -89,6 +89,12 @@ Playlist URL:
     </td>
   </tr>
   <tr>
+  <td>
+        <div style="text-align: center;">
+            <img src="screenshots/5_cliprrect.png" height="250px"/>
+            <p><a href="/lib/5_cliprrect/cliprrect.dart" target="_blank">ClipRRect</a></p>
+        </div>
+    </td>
     <td>
         <div style="text-align: center;">
             <img src="screenshots/6_image.asset.png" height="250px"/>
@@ -98,7 +104,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/7_gridview&builder.png" height="250px"/>
-            <p><a href="/lib/7_gridview&builder/gridview.dart" target="_blank">GridView & Builder</a></p>
+            <p><a href="/lib/7_gridview&builder/gridview.dart" target="_blank">GridView</a></p>
         </div>
     </td>
     <td>
@@ -110,7 +116,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/9_bottom_nav_bar.png" height="250px"/>
-            <p><a href="/lib/9_bottom-nav_bar/bottomnavbar.dart" target="_blank">BottomNavigationBarItem</a></p>
+            <p><a href="/lib/9_bottom-nav_bar/bottomnavbar.dart" target="_blank">BottomNavBar</a></p>
         </div>
     </td>
   </tr>
