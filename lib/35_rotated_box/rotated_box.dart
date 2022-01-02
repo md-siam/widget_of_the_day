@@ -12,7 +12,7 @@ class MyRotatedBox extends StatelessWidget {
         children: [
           SizedBox(
             child: Padding(
-              padding: const EdgeInsets.all(8.0),
+              padding: const EdgeInsets.all(10.0),
               child: Image.asset('assets/images/democracy.jpeg'),
             ),
           ),
@@ -41,7 +41,7 @@ class MyRotatedBox extends StatelessWidget {
                 ),
               ),
               SizedBox(
-                width: MediaQuery.of(context).size.width - 80,
+                width: MediaQuery.of(context).size.width - 70,
                 child: const Padding(
                   padding: EdgeInsets.all(8.0),
                   child: Text(
