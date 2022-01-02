@@ -45,6 +45,7 @@ Playlist URL:
 29. [ElevatedButton](/lib/29_elevated_button/elevated_button.dart) > style > ElevatedButton.styleFrom > primary: Colors.blue <br>
     [OutlinedButton](/lib/29_elevated_button/elevated_button.dart)
 30. [FloatingActionButton](/lib/30_floating_action_button/floating_action_button.dart)
-31. [Navigator](/lib/31_navigator/navigator.dart) > initialRoute > ElevatedButton > Navigator.pushNamed(context, '/first') > Navigator.pop(context)
-32. [Card](/lib/32_card/card.dart) > shape: RoundedRectangleBorder > borderRadius: BorderRadius.circular(20) > Column > children[] > shadowColor > elevation
-33. [Clipper](/lib/33_clipper/clipper.dart) > Custom Clipper > Quadratic Bezier Curve
+31. [RawMaterialButton](/lib/31_raw_material_button/raw_material_button.dart) > Use for custom fancy button
+32. [Navigator](/lib/32_navigator/navigator.dart) > initialRoute > ElevatedButton > Navigator.pushNamed(context, '/first') > Navigator.pop(context)
+33. [Card](/lib/33_card/card.dart) > shape: RoundedRectangleBorder > borderRadius: BorderRadius.circular(20) > Column > children[] > shadowColor > elevation
+34. [Clipper](/lib/34_clipper/clipper.dart) > Custom Clipper > Quadratic Bezier Curve
