@@ -53,7 +53,7 @@ Playlist URL:
 36. [Transform](/lib/36_transform/transform.dart) > origin > transform
 37. [Positioned](/lib/37_positioned/positioned.dart) > Stack > alignment > Positioned > 2 properties at a time
 
-## Table of Contents:
+## Screenshots:
 
 <table align="center" style="margin: 0px auto;">
   <tr>
@@ -84,15 +84,33 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/4_listview&builder.png" height="250px"/>
-            <p><a href="/lib/4_listview&builder/listview.dart" target="_blank">ListView Builder</a></p>
+            <p><a href="/lib/4_listview&builder/listview.dart" target="_blank">ListView & Builder</a></p>
         </div>
     </td>
   </tr>
   <tr>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/5_cliprrect.png" height="250px"/>
-            <p><a href="/lib/5_cliprrect/cliprrect.dart" target="_blank">ClipRRect</a></p>
+            <img src="screenshots/6_image.asset.png" height="250px"/>
+            <p><a href="/lib/6_image.asset/image_asset.dart" target="_blank">Image.asset</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/7_gridview&builder.png" height="250px"/>
+            <p><a href="/lib/7_gridview&builder/gridview.dart" target="_blank">GridView & Builder</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/8_gesturedetector.png" height="250px"/>
+            <p><a href="/lib/8_gesturedetector/gesturedetector.dart" target="_blank">GestureDetector</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/9_bottom_nav_bar.png" height="250px"/>
+            <p><a href="/lib/9_bottom-nav_bar/bottomnavbar.dart" target="_blank">BottomNavigationBarItem</a></p>
         </div>
     </td>
   </tr>

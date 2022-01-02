@@ -17,11 +17,12 @@ class MyApp extends StatelessWidget {
       //home: const MyColumn(),
       //home: const MyRow(),
       //home: MyListViwe(),
-      home: const MyCliprrect(),
+      //home: const MyCliprrect(),
       //home: const MyImageAsset(),
       //home: const MyGridView(),
       //home: const MyGestureDetector(),
       //home: const MyBottomNavBar(),
+
       //home: const MyAppBar(),
       //home: const MyDrawer(),
       //home: const MySliverAppBar(),
@@ -48,7 +49,7 @@ class MyApp extends StatelessWidget {
       //home: const MyCustomClipper(),
       //home: const MyRotatedBox(),
       //home: const MyTransform(),
-      //home: const MyPositioned(),
+      home: const MyPositioned(),
     );
   }
 }
