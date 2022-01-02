@@ -69,6 +69,18 @@ Playlist URL:
             <p><a href="/lib/2_expanded/expanded.dart" target="_blank">Expanded</a></p>
         </div>
     </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/3_column.png" height="200px"/>
+            <p><a href="/lib/3_column&row/column.dart" target="_blank">Column</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/3_row.png" height="200px"/>
+            <p><a href="/lib/3_column&row/row.dart" target="_blank">Row</a></p>
+        </div>
+    </td>
   </tr>
 
 </table>
