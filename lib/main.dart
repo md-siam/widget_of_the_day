@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
       //home: const MyCustomClipper(),
       //home: const MyRotatedBox(),
       //home: const MyTransform(),
-      home: const MyPositioned(),
+      //home: const MyPositioned(),
     );
   }
 }
