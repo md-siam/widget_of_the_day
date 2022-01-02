@@ -10,10 +10,13 @@ class MyRotatedBox extends StatelessWidget {
       appBar: AppBar(title: const Text('Rotated Box')),
       body: ListView(
         children: [
-          SizedBox(
-            child: Padding(
-              padding: const EdgeInsets.all(10.0),
-              child: Image.asset('assets/images/democracy.jpeg'),
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(10.0),
+              child: SizedBox(
+                child: Image.asset('assets/images/democracy.jpeg'),
+              ),
             ),
           ),
           Row(
