@@ -59,13 +59,13 @@ Playlist URL:
   <tr>
     <td>
         <div style="text-align: center;">
-            <img src="/screenshots/1_container.png"  width="200px" height="100px"/>
+            <img src="/screenshots/1_container.png" height="200px"/>
             <p><a href="/lib/1_container/container.dart" target="_blank">Container</a></p>
         </div>
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/2_expanded.png"  width="200px" height="100px"/>
+            <img src="screenshots/2_expanded.png" height="200px"/>
             <p><a href="/lib/2_expanded/expanded.dart" target="_blank">Expanded</a></p>
         </div>
     </td>
