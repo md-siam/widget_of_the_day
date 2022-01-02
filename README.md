@@ -54,14 +54,3 @@ Playlist URL:
 37. [Positioned](/lib/37_positioned/positioned.dart) > Stack > alignment > Positioned > 2 properties at a time
 
 ## Table of Contents:
-<div style="float: right; padding: 10px">
-<img src="../data/cat.bmp"  width="200px" height="100px"/>
-<p style="font-size: 14px">   hybrid image.</p>
-</div>
-
-<div style="float: right; padding: 10px">
-<img src="../data/cat.bmp" width="100px" height="100px"/>
-<p style="font-size: 14px">   hybrid image.</p>
-<img src="../data/cat.bmp" width="100px" height="100px" />
-<p style="font-size: 14px">   hybrid image.</p>
-</div>
