@@ -33,3 +33,4 @@ export '31_raw_material_button/raw_material_button.dart';
 export '32_navigator/navigator.dart';
 export '33_card/card.dart';
 export '34_clipper/clipper.dart';
+export '35_rotated_box/rotated_box.dart';

@@ -49,3 +49,4 @@ Playlist URL:
 32. [Navigator](/lib/32_navigator/navigator.dart) > initialRoute > ElevatedButton > Navigator.pushNamed(context, '/first') > Navigator.pop(context)
 33. [Card](/lib/33_card/card.dart) > shape: RoundedRectangleBorder > borderRadius: BorderRadius.circular(20) > Column > children[] > shadowColor > elevation
 34. [Clipper](/lib/34_clipper/clipper.dart) > Custom Clipper > Quadratic Bezier Curve
+35. [RotatedBox](/lib/35_rotated_box/rotated_box.dart) > quarterTurns: 3 > Each quarterTurns is ≡ 90°
