@@ -104,7 +104,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/7_gridview&builder.png" height="250px"/>
-            <p><a href="/lib/7_gridview&builder/gridview.dart" target="_blank">GridViewBuilder</a></p>
+            <p><a href="/lib/7_gridview&builder/gridview.dart" target="_blank">GridView & Builder</a></p>
         </div>
     </td>
     <td>
