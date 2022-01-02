@@ -87,6 +87,12 @@ Playlist URL:
             <p><a href="/lib/4_listview&builder/listview.dart" target="_blank">ListView Builder</a></p>
         </div>
     </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/5_cliprrect.png" height="200px"/>
+            <p><a href="/lib/5_cliprrect/cliprrect.dart" target="_blank">ClipRRect</a></p>
+        </div>
+    </td>
   </tr>
 
 </table>
