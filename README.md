@@ -153,5 +153,37 @@ Playlist URL:
         </div>
     </td>
   </tr>
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/15_media_query.png" height="250px"/>
+            <p><a href="/lib/15_media_query/mediaquery.dart" target="_blank">MediaQuery</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/16_alert_dialog.gif" height="250px"/>
+            <p><a href="/lib/16_alert_dialog/alertdialog.dart" target="_blank">AlertDialog</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/17_text&style.png" height="250px"/>
+            <p><a href="/lib/17_text&styling/text_n_styling.dart" target="_blank">Text & Styling</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/18_rich_text.png" height="250px"/>
+            <p><a href="/lib/18_rich_text/richtext.dart" target="_blank">RichText</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/19_timer.gif" height="250px"/>
+            <p><a href="/lib/19_timer/timer.dart" target="_blank">Timer</a></p>
+        </div>
+    </td>
+  </tr>
   
 </table>

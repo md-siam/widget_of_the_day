@@ -10,25 +10,33 @@ class MyRichText extends StatelessWidget {
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Container(
+          SizedBox(
             height: 300,
-            color: Colors.grey[300],
+            child: Image.asset(
+              'assets/images/death-note.jpeg',
+              fit: BoxFit.cover,
+            ),
           ),
-          RichText(
-            text: const TextSpan(
-              // default style
-              style: TextStyle(color: Colors.black, fontSize: 20),
-              children: [
-                TextSpan(
-                  text: 'Mitch Koko: ',
-                  style: TextStyle(fontWeight: FontWeight.bold),
-                ),
-                TextSpan(
-                  text:
-                      'This ia a very long caption. RichText is modified version of simple Text widget.',
-                  style: TextStyle(color: Colors.grey),
-                ),
-              ],
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: RichText(
+              text: const TextSpan(
+                // default style
+                style: TextStyle(color: Colors.black, fontSize: 20),
+                children: [
+                  TextSpan(
+                    text: 'Death Note: ',
+                    style: TextStyle(fontWeight: FontWeight.bold),
+                  ),
+                  TextSpan(
+                    text:
+                        'This ia a very long caption. RichText is modified version of simple Text widget.',
+                    style: TextStyle(
+                      color: Colors.grey,
+                    ),
+                  ),
+                ],
+              ),
             ),
           )
         ],
