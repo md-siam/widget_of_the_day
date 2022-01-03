@@ -36,13 +36,13 @@ class MyApp extends StatelessWidget {
       //home: const MyStack(),
       //home: const MyTextField(),
       //home: const MyAnimatedIcon(),
-      home: const MySlider(),
+      //home: const MySlider(),
 
       //home: const MyDatePicker(),
       //home: const MyTimePicker(),
       //home: const MyListWheelScrollView(),
       //home: const MyLinearGradient(),
-      //home: const MyElevatedButton(),
+      home: const MyElevatedButton(),
 
       //home: const MyFloatingActionButton(),
       //home: const MyRawMaterialButton(),
