@@ -46,12 +46,11 @@ class MyApp extends StatelessWidget {
       //home: const MyRawMaterialButton(),
       //home: const MyIconButton(),
       //home: const MyNavigator(),
-      home: const MyCard(),
-
+      //home: const MyCard(),
       //home: const MyCustomClipper(),
       //home: const MyRotatedBox(),
       //home: const MyTransform(),
-      //home: const MyPositioned(),
+      home: const MyPositioned(),
     );
   }
 }
