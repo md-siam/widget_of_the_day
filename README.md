@@ -46,12 +46,13 @@ Playlist URL:
     [OutlinedButton](/lib/29_elevated_button/elevated_button.dart)
 30. [FloatingActionButton](/lib/30_floating_action_button/floating_action_button.dart)
 31. [RawMaterialButton](/lib/31_raw_material_button/raw_material_button.dart) > Use for custom fancy button
-32. [Navigator](/lib/32_navigator/navigator.dart) > initialRoute > ElevatedButton > Navigator.pushNamed(context, '/first') > Navigator.pop(context)
-33. [Card](/lib/33_card/card.dart) > shape: RoundedRectangleBorder > borderRadius: BorderRadius.circular(20) > Column > children[] > shadowColor > elevation
-34. [Clipper](/lib/34_clipper/clipper.dart) > Custom Clipper > Quadratic Bezier Curve
-35. [RotatedBox](/lib/35_rotated_box/rotated_box.dart) > quarterTurns: 3 > Each quarterTurns is ≡ 90°
-36. [Transform](/lib/36_transform/transform.dart) > origin > transform
-37. [Positioned](/lib/37_positioned/positioned.dart) > Stack > alignment > Positioned > 2 properties at a time
+32. [IconButton](/lib/32_icon_button/iconbutton.dart)
+33. [Navigator](/lib/33_navigator/navigator.dart) > initialRoute > ElevatedButton > Navigator.pushNamed(context, '/first') > Navigator.pop(context)
+34. [Card](/lib/34_card/card.dart) > shape: RoundedRectangleBorder > borderRadius: BorderRadius.circular(20) > Column > children[] > shadowColor > elevation
+35. [Clipper](/lib/35_clipper/clipper.dart) > Custom Clipper > Quadratic Bezier Curve
+36. [RotatedBox](/lib/36_rotated_box/rotated_box.dart) > quarterTurns: 3 > Each quarterTurns is ≡ 90°
+37. [Transform](/lib/37_transform/transform.dart) > origin > transform
+38. [Positioned](/lib/38_positioned/positioned.dart) > Stack > alignment > Positioned > 2 properties at a time
 
 ## Screenshots:
 
@@ -115,8 +116,40 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/9_bottom_nav_bar.png" height="250px"/>
+            <img src="screenshots/9_bottom_navigation_bar.gif" height="250px"/>
             <p><a href="/lib/9_bottom-nav_bar/bottomnavbar.dart" target="_blank">BottomNavBar</a></p>
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/10_appbar.png" height="250px"/>
+            <p><a href="/lib/10_appbar/appbar.dart" target="_blank">AppBar</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/11_drawer.gif" height="250px"/>
+            <p><a href="/lib/11_drawer/drawer.dart" target="_blank">Drawer</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/12_silver-appbar.gif" height="250px"/>
+            <p><a href="/lib/12_sliver-appbar/sliverappbar.dart" target="_blank">SilverAppBar</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/13_tabbar.gif" height="250px"/>
+            <p><a href="/lib/13_tabbar/tabbar.dart" target="_blank">TabBar</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/14_animated-container.gif" height="250px"/>
+            <p><a href="/lib/14_animated-container/animatedcontainer.dart" target="_blank">AnimatedContainer</a></p>
         </div>
     </td>
   </tr>
