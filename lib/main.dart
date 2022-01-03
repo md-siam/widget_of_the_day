@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       //home: const MyCliprrect(),
       //home: const MyImageAsset(),
       //home: const MyGridView(),
-      //home: const MyGestureDetector(),
+      home: const MyGestureDetector(),
       //home: const MyBottomNavBar(),
       //home: const MyAppBar(),
       //home: const MyDrawer(),
@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
       //home: const MyTabBar(),
       //home: const MyAnimatedContainer(),
 
-      home: const MyMediaQuery(),
+      //home: const MyMediaQuery(),
       //home: const MyAlertDialog(),
       //home: const MyTextStyle(),
       //home: const MyRichText(),
