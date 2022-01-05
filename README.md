@@ -8,6 +8,7 @@ Playlist URL:
 2. [YouTube](https://www.youtube.com/watch?v=FZiw9MWLlys) [LinearGradient]
 3. [YouTube](https://www.youtube.com/watch?v=pDnfJvh7uzc) [Card]
 4. [YouTube](https://www.youtube.com/watch?v=8QdLBQhnHAQ&t=457s)[Clipper]
+5. [YouTube](https://www.youtube.com/watch?v=1ToqYMSnNhA)[CustomPaint]
 
 ## Widgets List:
 
@@ -53,6 +54,7 @@ Playlist URL:
 36. [RotatedBox](/lib/36_rotated_box/rotated_box.dart) > quarterTurns: 3 > Each quarterTurns is ≡ 90°
 37. [Transform](/lib/37_transform/transform.dart) > origin > transform
 38. [Positioned](/lib/38_positioned/positioned.dart) > Stack > alignment > Positioned > 2 properties at a time
+39. [CustomPaint](/lib/39_custom_paint/custom_paint.dart) > Watch the video
 
 ## Screenshots:
 
@@ -308,8 +310,8 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/" height="250px"/>
-            <p><a href="/" target="_blank">Blank</a></p>
+            <img src="screenshots/39_custom_paint.png" height="250px"/>
+            <p><a href="/lib/39_custom_paint/custom_paint.dart" target="_blank">CustomPaint</a></p>
         </div>
     </td>
   </tr>
