@@ -55,6 +55,9 @@ Playlist URL:
 37. [Transform](/lib/37_transform/transform.dart) > origin > transform
 38. [Positioned](/lib/38_positioned/positioned.dart) > Stack > alignment > Positioned > 2 properties at a time
 39. [CustomPaint](/lib/39_custom_paint/custom_paint.dart) > Watch the video
+40. [ClipOval](/lib/40_clipoval/clipoval.dart) > Image.asset > height & width should be same > fit: BoxFit.cover
+41. [ClipRRect](/lib/41_cliprrect/cliprrect.dart) > borderRadius > Image.asset
+42. []()
 
 ## Screenshots:
 
@@ -312,6 +315,39 @@ Playlist URL:
         <div style="text-align: center;">
             <img src="screenshots/39_custom_paint.png" height="250px"/>
             <p><a href="/lib/39_custom_paint/custom_paint.dart" target="_blank">CustomPaint</a></p>
+        </div>
+    </td>
+  </tr>
+   ///////--------------*******
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/40_clipoval.png" height="250px"/>
+            <p><a href="/lib/40_clipoval/clipoval.dart" target="_blank">ClipOval</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/41_cliprrect.png" height="250px"/>
+            <p><a href="/lib/41_cliprrect/cliprrect.dart" target="_blank">ClipRRect</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="orm.png" height="250px"/>
+            <p><a href="/lib/nsform.dart" target="_blank">Trarm</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screensned.png" height="250px"/>
+            <p><a href="/lib/38_pioned.dart" target="_blank">Posed</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshint.png" height="250px"/>
+            <p><a href="/lib/39_c_paint.dart" target="_blank">Blank</a></p>
         </div>
     </td>
   </tr>
