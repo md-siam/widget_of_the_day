@@ -40,3 +40,5 @@ export '38_positioned/positioned.dart';
 export '39_custom_paint/custom_paint.dart';
 export '40_clipoval/clipoval.dart';
 export '41_cliprrect/cliprrect.dart';
+export '42_cliprect/cliprect.dart';
+export '43_clippath/clippath.dart';

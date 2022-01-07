@@ -57,7 +57,8 @@ Playlist URL:
 39. [CustomPaint](/lib/39_custom_paint/custom_paint.dart) > Watch the video
 40. [ClipOval](/lib/40_clipoval/clipoval.dart) > Image.asset > height & width should be same > fit: BoxFit.cover
 41. [ClipRRect](/lib/41_cliprrect/cliprrect.dart) > borderRadius > Image.asset
-42. []()
+42. [ClipRect](/lib/42_cliprect/cliprect.dart) > Image.asset
+43. [ClipPath](/lib/43_clippath/clippath.dart) > Image.asset > clipper: > Draw the ClipPath
 
 ## Screenshots:
 
@@ -318,7 +319,6 @@ Playlist URL:
         </div>
     </td>
   </tr>
-   ///////--------------*******
   <tr>
     <td>
         <div style="text-align: center;">
@@ -334,20 +334,20 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="orm.png" height="250px"/>
-            <p><a href="/lib/nsform.dart" target="_blank">Trarm</a></p>
+            <img src="screenshots/42_cliprect.png" height="250px"/>
+            <p><a href="/lib/42_cliprect/cliprect.dart" target="_blank">ClipRect</a></p>
         </div>
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screensned.png" height="250px"/>
-            <p><a href="/lib/38_pioned.dart" target="_blank">Posed</a></p>
+            <img src="screenshots/43_clippath.gif" height="250px"/>
+            <p><a href="/lib/43_clippath/clippath.dart" target="_blank">ClipPath</a></p>
         </div>
     </td>
     <td>
         <div style="text-align: center;">
             <img src="screenshint.png" height="250px"/>
-            <p><a href="/lib/39_c_paint.dart" target="_blank">Blank</a></p>
+            <p><a href="/lib.dart" target="_blank">Blank</a></p>
         </div>
     </td>
   </tr>
