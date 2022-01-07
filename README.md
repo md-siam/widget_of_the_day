@@ -92,7 +92,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/4_listview.gif" height="250px"/>
-            <p><a href="/lib/4_listview&builder/listview.dart" target="_blank">ListView & Builder</a></p>
+            <p><a href="/lib/4_listview&builder/listview.dart" target="_blank">ListView Builder</a></p>
         </div>
     </td>
   </tr>
@@ -112,7 +112,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/7_gridview.gif" height="250px"/>
-            <p><a href="/lib/7_gridview&builder/gridview.dart" target="_blank">GridView & Builder</a></p>
+            <p><a href="/lib/7_gridview&builder/gridview.dart" target="_blank">GridView Builder</a></p>
         </div>
     </td>
     <td>
