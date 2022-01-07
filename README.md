@@ -348,7 +348,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/44_radial&sweep_gradient.png" height="250px"/>
-            <p><a href="/lib.dart" target="_blank">Radial&Sweep Gradient</a></p>
+            <p><a href="/lib.dart" target="_blank">Radial&SweepGradient</a></p>
         </div>
     </td>
   </tr>
