@@ -15,7 +15,7 @@ class MyClipPath extends StatelessWidget {
               ClipPath(
                 clipper: TriangleClipper(),
                 child: Image.asset(
-                  'assets/marvel_heroes/thor.jpeg',
+                  'assets/images/marvel_heroes/thor.jpeg',
                   height: 300,
                   width: 300,
                   fit: BoxFit.cover,
@@ -25,7 +25,7 @@ class MyClipPath extends StatelessWidget {
               ClipPath(
                 clipper: HexagonClipper(),
                 child: Image.asset(
-                  'assets/marvel_heroes/hulk.jpeg',
+                  'assets/images/marvel_heroes/hulk.jpeg',
                   height: 300,
                   width: 300,
                   fit: BoxFit.cover,

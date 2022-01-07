@@ -53,10 +53,10 @@ class MyApp extends StatelessWidget {
       //home: const MyPositioned(),
       //home: const MyCustomPaint(),
       //home: const MyClipOval(),
-      //home: const MyClipOval(),
       //home: const MyClipRRect(),
       //home: const MyClipRect(),
-      home: const MyClipPath(),
+      //home: const MyClipPath(),
+      home: const MyRadialNSeepGradient(),
     );
   }
 }

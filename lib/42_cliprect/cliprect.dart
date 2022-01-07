@@ -10,7 +10,7 @@ class MyClipRect extends StatelessWidget {
       body: Center(
         child: ClipRect(
           child: Image.asset(
-            'assets/marvel_heroes/iron-man.jpeg',
+            'assets/images/marvel_heroes/iron-man.jpeg',
             height: 300,
             width: 300,
             fit: BoxFit.cover,

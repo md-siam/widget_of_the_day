@@ -59,6 +59,7 @@ Playlist URL:
 41. [ClipRRect](/lib/41_cliprrect/cliprrect.dart) > borderRadius > Image.asset
 42. [ClipRect](/lib/42_cliprect/cliprect.dart) > Image.asset
 43. [ClipPath](/lib/43_clippath/clippath.dart) > Image.asset > clipper: > Draw the ClipPath
+44. [Radial & Sweep Gradient](/lib/44_radial_gradient/radial_n_sweep_gradient.dart) > Container > decoration > gradient> RadialGradient or SweepGradient
 
 ## Screenshots:
 
@@ -346,8 +347,8 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshint.png" height="250px"/>
-            <p><a href="/lib.dart" target="_blank">Blank</a></p>
+            <img src="screenshots/44_radial&sweep_gradient.png" height="250px"/>
+            <p><a href="/lib.dart" target="_blank">Radial&SweepGradient</a></p>
         </div>
     </td>
   </tr>

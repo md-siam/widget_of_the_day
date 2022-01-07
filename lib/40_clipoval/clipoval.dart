@@ -10,7 +10,7 @@ class MyClipOval extends StatelessWidget {
       body: Center(
         child: ClipOval(
           child: Image.asset(
-            'assets/marvel_heroes/ant-man.jpeg',
+            'assets/images/marvel_heroes/ant-man.jpeg',
             height: 300,
             width: 300,
             fit: BoxFit.cover,

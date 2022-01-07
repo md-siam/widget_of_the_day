@@ -16,7 +16,7 @@ class MyClipRRect extends StatelessWidget {
             bottomLeft: Radius.circular(270.0),
           ),
           child: Image.asset(
-            'assets/marvel_heroes/captain-america.jpeg',
+            'assets/images/marvel_heroes/captain-america.jpeg',
             height: 300,
             width: 300,
             fit: BoxFit.cover,
