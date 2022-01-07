@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       //home: const MyColumn(),
       //home: const MyRow(),
       //home: MyListViwe(),
-      //home: const MyCliprrect(),
+      //home: const MySingleChildScrollView(),
       //home: const MyImageAsset(),
       //home: const MyGridView(),
       //home: const MyGestureDetector(),
@@ -51,8 +51,7 @@ class MyApp extends StatelessWidget {
       //home: const MyRotatedBox(),
       //home: const MyTransform(),
       //home: const MyPositioned(),
-      //home: const MyCustomPaint(),
-      home: const MySingleChildScrollView(),
+      home: const MyCustomPaint(),
     );
   }
 }

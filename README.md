@@ -17,7 +17,7 @@ Playlist URL:
 3. [Column](/lib/3_column&row/column.dart) > mainAxisAlignment & crossAxisAlignment<br>
    [Row](/lib/3_column&row/row.dart) > alignment
 4. [ListView](/lib/4_listview&builder/listview.dart) > Builder > Instagram UI design
-5. [Cliprrect](/lib/5_cliprrect/cliprrect.dart) (Clip Round Rectangle) > wrap the container with this widget for getting a rounded corner
+5. [SingleChildScrollView](/lib/5_single_child_scroll_view/single_child_scroll_view.dart) > scrollDirection > padding > physics
 6. [Image.Asset](/lib/6_image.asset/image_asset.dart) > fit (BoxFit.cover) > place it inside a Container widget for rounded corners
 7. [Gridview](/lib/7_gridview&builder/gridview.dart) > Builder > crossAxisCount (no. of box in the horizontal)
 8. [GestureDetector](/lib/8_gesturedetector/gesturedetector.dart) > onTap:()=>{'action'} > Keep functional logic seperated from UI
@@ -55,7 +55,6 @@ Playlist URL:
 37. [Transform](/lib/37_transform/transform.dart) > origin > transform
 38. [Positioned](/lib/38_positioned/positioned.dart) > Stack > alignment > Positioned > 2 properties at a time
 39. [CustomPaint](/lib/39_custom_paint/custom_paint.dart) > Watch the video
-40. [SingleChildScrollView](/lib/40_single_child_scroll_view/single_child_scroll_view.dart) > scrollDirection > padding > physics
 
 ## Screenshots:
 
@@ -95,8 +94,8 @@ Playlist URL:
   <tr>
   <td>
         <div style="text-align: center;">
-            <img src="screenshots/5_cliprrect.png" height="250px"/>
-            <p><a href="/lib/5_cliprrect/cliprrect.dart" target="_blank">ClipRRect</a></p>
+            <img src="screenshots/5_single_child_scroll_view.gif" height="250px"/>
+            <p><a href="/lib/5_single_child_scroll_view/single_child_scroll_view.dart" target="_blank">SingleChildScrollView</a></p>
         </div>
     </td>
     <td>
