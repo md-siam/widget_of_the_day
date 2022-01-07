@@ -94,7 +94,7 @@ Playlist URL:
   <tr>
   <td>
         <div style="text-align: center;">
-            <img src="screenshots/5_single_child_scroll_view.gif" height="250px"/>
+            <img src="screenshots/5_single_child_scrollview.gif" height="250px"/>
             <p><a href="/lib/5_single_child_scroll_view/single_child_scroll_view.dart" target="_blank">SingleChildScrollView</a></p>
         </div>
     </td>
