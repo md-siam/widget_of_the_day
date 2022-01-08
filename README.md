@@ -60,7 +60,8 @@ Playlist URL:
 42. [ClipRect](/lib/42_cliprect/cliprect.dart) > Image.asset
 43. [ClipPath](/lib/43_clippath/clippath.dart) > Image.asset > clipper: > Draw the ClipPath
 44. [Radial & Sweep Gradient](/lib/44_radial_gradient/radial_n_sweep_gradient.dart) > Container > decoration > gradient> RadialGradient / SweepGradient
-45. [StatefulWidget](/lib/45_stateful_widget/stateful_widget.dart) > createState() > initState() > didChangeDependencies() > didUpdateWidget() > deactivate() > dispose() > setState((){actions})
+45. [StatefulWidget](/lib/45_stateful_widget/stateful_widget.dart) > createState() > initState() > didChangeDependencies() > didUpdateWidget() > deactivate() > dispose() > setState((){'actions'})
+46. [Table](/lib/46_table/table.dart) > border > columnWidths > textDirection > children > TableRow > children
 
 ## Screenshots:
 

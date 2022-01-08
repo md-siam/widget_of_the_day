@@ -44,3 +44,4 @@ export '42_cliprect/cliprect.dart';
 export '43_clippath/clippath.dart';
 export '44_radial_gradient/radial_n_sweep_gradient.dart';
 export '45_stateful_widget/stateful_widget.dart';
+export '46_table/table.dart';

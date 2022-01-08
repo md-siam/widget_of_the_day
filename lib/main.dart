@@ -57,7 +57,8 @@ class MyApp extends StatelessWidget {
       //home: const MyClipRect(),
       //home: const MyClipPath(),
       //home: const MyRadialNSeepGradient(),
-      home: const MyStatufulWidget(number: 0),
+      //home: const MyStatufulWidget(number: 0),
+      home: const MyTable(),
     );
   }
 }
