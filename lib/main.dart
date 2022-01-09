@@ -61,7 +61,8 @@ class MyApp extends StatelessWidget {
       //home: const MyTable(),
       //home: const MyDataTable(),
       //home: const MyPlaceholder(),
-      home: const MyGestetureNInk(),
+      //home: const MyGestetureNInk(),
+      home: const MyMaterial(),
     );
   }
 }
