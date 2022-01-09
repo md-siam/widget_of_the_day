@@ -64,6 +64,7 @@ Playlist URL:
 45. [StatefulWidget](/lib/45_stateful_widget/stateful_widget.dart) > createState() > initState() > didChangeDependencies() > didUpdateWidget() > deactivate() > dispose() > setState((){'actions'})
 46. [Table](/lib/46_table/table.dart) > border > columnWidths > textDirection > children > TableRow > children
 47. [DataTable](/lib/47_data_table/data_table.dart) > border > columnSpacing > onSelectAll > sortColumnIndex > sortAscending > columns > rows
+48. [Placeholder](/lib/48_placeholder/placeholder.dart) > fallbackHeight > strokeWidth > color > strokeWidth
 
 ## Screenshots:
 
