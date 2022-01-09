@@ -9,6 +9,7 @@ Playlist URL:
 3. [YouTube](https://www.youtube.com/watch?v=pDnfJvh7uzc) [Card]
 4. [YouTube](https://www.youtube.com/watch?v=8QdLBQhnHAQ&t=457s)[Clipper]
 5. [YouTube](https://www.youtube.com/watch?v=1ToqYMSnNhA)[CustomPaint]
+6. [YouTube](https://www.youtube.com/watch?v=n2Dav9ONJsY)[DataTable]
 
 ## Widgets List:
 
@@ -62,6 +63,7 @@ Playlist URL:
 44. [Radial & Sweep Gradient](/lib/44_radial_gradient/radial_n_sweep_gradient.dart) > Container > decoration > gradient> RadialGradient / SweepGradient
 45. [StatefulWidget](/lib/45_stateful_widget/stateful_widget.dart) > createState() > initState() > didChangeDependencies() > didUpdateWidget() > deactivate() > dispose() > setState((){'actions'})
 46. [Table](/lib/46_table/table.dart) > border > columnWidths > textDirection > children > TableRow > children
+47. [DataTable](/lib/47_data_table/data_table.dart) > border > columnSpacing > onSelectAll > sortColumnIndex > sortAscending > columns > rows
 
 ## Screenshots:
 
