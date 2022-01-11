@@ -258,7 +258,7 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/29_elevated_button.gif" height="250px"/>
+            <img src="screenshots/29_elevated_button.png" height="250px"/>
             <p><a href="/lib/29_elevated_button/elevated_button.dart" target="_blank">ElevatedButton</a></p>
         </div>
     </td>
