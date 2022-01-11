@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'setting_page.dart';
 import 'share_page.dart';
-import 'signin_page.dart' show SigninPage;
+import 'signin_page.dart';
 
 class MyDropDownNPopupMenu extends StatefulWidget {
   const MyDropDownNPopupMenu({Key? key}) : super(key: key);
