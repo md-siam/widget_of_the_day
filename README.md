@@ -67,7 +67,7 @@ Playlist URL:
 48. [Placeholder](/lib/48_placeholder/placeholder.dart) > fallbackHeight > strokeWidth > color > strokeWidth
 49. [GestureDetector & InkWell](/lib/49_gesturedect_&_inkwell/gesturedect_n_inkwell.dart) > GestureDetector > onTap | InkWell > OnTap
 50. [Material](/lib/50_material/material.dart) > It can manipulate some properties of it's child widget
-51. [Switch](/lib/51_switchs/switchs.dart) > ListTile > leading > Switch / Checkbox / Radio > value > onChanged > groupValue{only for Radio}
+51. [Switches](/lib/51_switchs/switchs.dart) > ListTile > leading > Switch / Checkbox / Radio > value > onChanged > groupValue (only for Radio)
 
 ## Screenshots:
 

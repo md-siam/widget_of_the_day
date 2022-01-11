@@ -49,4 +49,4 @@ export '47_data_table/data_table.dart';
 export '48_placeholder/placeholder.dart';
 export '49_gesturedect_&_inkwell/gesturedect_n_inkwell.dart';
 export '50_material/material.dart';
-export 'package:widget_of_the_day/51_switchs/switchs.dart';
+export 'package:widget_of_the_day/51_switches/switches.dart';
