@@ -414,13 +414,13 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/blank.gif" height="250px"/>
+            <img src="screenshots/0_blank.png" height="250px"/>
             <p><a href="/blank.dart" target="_blank">Blank</a></p>
         </div>
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/blank.gif" height="250px"/>
+            <img src="screenshots/0_blank.png" height="250px"/>
             <p><a href="/blank.dart" target="_blank">Blank</a></p>
         </div>
     </td>
