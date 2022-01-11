@@ -409,7 +409,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/52_dropdown_n_popupmenu.gif" height="250px"/>
-            <p><a href="/lib/52_dropdown_&_popupmenu/dropdown_n_popupmenu.dart" target="_blank">Dropdown&PopupM</a></p>
+            <p><a href="/lib/52_dropdown_&_popupmenu/dropdown_n_popupmenu.dart" target="_blank">Dropdown&Popup</a></p>
         </div>
     </td>
     <td>
