@@ -393,7 +393,6 @@ Playlist URL:
         </div>
     </td>
   </tr>
-  //--------------------///
   <tr>
     <td>
         <div style="text-align: center;">
