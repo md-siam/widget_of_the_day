@@ -63,7 +63,8 @@ class MyApp extends StatelessWidget {
       //home: const MyPlaceholder(),
       //home: const MyGestetureNInk(),
       //home: const MyMaterial(),
-      home: const MySwitches(),
+      //home: const MySwitches(),
+      home: const MyDropDownNPopupMenu(),
     );
   }
 }

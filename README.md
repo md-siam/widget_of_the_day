@@ -67,7 +67,8 @@ Playlist URL:
 48. [Placeholder](/lib/48_placeholder/placeholder.dart) > fallbackHeight > strokeWidth > color > strokeWidth
 49. [GestureDetector & InkWell](/lib/49_gesturedect_&_inkwell/gesturedect_n_inkwell.dart) > GestureDetector > onTap | InkWell > OnTap
 50. [Material](/lib/50_material/material.dart) > It can manipulate some properties of it's child widget
-51. [Switches](/lib/51_switchs/switchs.dart) > ListTile > leading > Switch / Checkbox / Radio > value > onChanged > groupValue (only for Radio)
+51. [Switches](/lib/51_switches/switches.dart) > ListTile > leading > Switch / Checkbox / Radio > value > onChanged > groupValue (only for Radio)
+52. [DropDown&Popup](/lib/52_dropdown_&_popupmenu/dropdown_n_popupmenu.dart) > check the code
 
 ## Screenshots:
 
@@ -389,6 +390,39 @@ Playlist URL:
         <div style="text-align: center;">
             <img src="screenshots/49_gesturdetector_inkwell.gif" height="250px"/>
             <p><a href="/lib/49_gesturedect_&_inkwell/gesturedect_n_inkwell.dart" target="_blank">GestureD & InkW</a></p>
+        </div>
+    </td>
+  </tr>
+  //--------------------///
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/50_material.png" height="250px"/>
+            <p><a href="/lib/50_material/material.dart" target="_blank">Material</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/51_switches.gif" height="250px"/>
+            <p><a href="/lib/51_switches/switches.dart" target="_blank">Switches</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/52_dropdown_n_popupmenu.gif" height="250px"/>
+            <p><a href="/lib/52_dropdown_&_popupmenu/dropdown_n_popupmenu.dart" target="_blank">Dropdown&PopupM</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/blank.gif" height="250px"/>
+            <p><a href="/blank.dart" target="_blank">Blank</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/blank.gif" height="250px"/>
+            <p><a href="/blank.dart" target="_blank">Blank</a></p>
         </div>
     </td>
   </tr>
