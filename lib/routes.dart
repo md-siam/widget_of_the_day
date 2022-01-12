@@ -51,3 +51,4 @@ export '49_gesturedect_&_inkwell/gesturedect_n_inkwell.dart';
 export '50_material/material.dart';
 export '51_switches/switches.dart';
 export '52_dropdown_&_popupmenu/dropdown_n_popupmenu.dart';
+export '53_hero_animation/hero_animation.dart';
