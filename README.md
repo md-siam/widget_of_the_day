@@ -1,7 +1,7 @@
 # Widget of The Day
 
 <img align="right" src="assets/playstore.png" height="200"></img>
-Introduction to flutter widgets: This repo will teach you some of the common widgets that are available in flutter SDK, & how to use them for UI design.<br>
+Introduction to flutter widgets: This repo will teach you some of the common widgets that are available in flutter SDK, & shows you how to use them for your UI design.<br>
 Playlist URL:
 
 1. [YouTube](https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd)
@@ -71,6 +71,7 @@ Playlist URL:
 51. [Switches](/lib/51_switches/switches.dart) > ListTile > leading > Switch / Checkbox / Radio > value > onChanged > groupValue (only for Radio)
 52. [DropDown&Popup](/lib/52_dropdown_&_popupmenu/dropdown_n_popupmenu.dart) > See the code
 53. [HeroAnimation](/lib/53_hero_animation/hero_animation.dart) > tag: item in both pages
+54. [AboutDialog](/lib/54_aboutdialog/aboutdialog.dart) > ElevatedButton > onPressed > showAboutDialog
 
 ## Screenshots:
 
@@ -422,8 +423,8 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/0_blank.png" height="250px"/>
-            <p><a href="/blank.dart" target="_blank">Blank</a></p>
+            <img src="screenshots/54_aboutdialog.gif" height="250px"/>
+            <p><a href="/lib/54_aboutdialog/aboutdialog.dart" target="_blank">AboutDialog</a></p>
         </div>
     </td>
   </tr>

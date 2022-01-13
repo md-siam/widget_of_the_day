@@ -65,7 +65,8 @@ class MyApp extends StatelessWidget {
       //home: const MyMaterial(),
       //home: const MySwitches(),
       //home: const MyDropDownNPopupMenu(),
-      home: const MyHeroAnimation(),
+      //home: const MyHeroAnimation(),
+      home: const MyAboutDialog(),
     );
   }
 }

@@ -52,3 +52,4 @@ export '50_material/material.dart';
 export '51_switches/switches.dart';
 export '52_dropdown_&_popupmenu/dropdown_n_popupmenu.dart';
 export '53_hero_animation/hero_animation.dart';
+export '54_aboutdialog/aboutdialog.dart';
