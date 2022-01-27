@@ -79,7 +79,7 @@ Playlist URL:
   <tr>
     <td>
         <div style="text-align: center;">
-            <img src="/screenshots/1_container.png" height="250px"/>
+            <img src="screenshots/1_container.png" height="250px"/>
             <p><a href="/lib/1_container/container.dart" target="_blank">Container</a></p>
         </div>
     </td>
