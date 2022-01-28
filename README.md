@@ -155,8 +155,8 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/12_silver-appbar.gif" height="250px"/>
-            <p><a href="/lib/12_sliver-appbar/sliverappbar.dart" target="_blank">SilverAppBar</a></p>
+            <img src="screenshots/12_sliver-appbar.gif" height="250px"/>
+            <p><a href="/lib/12_sliver-appbar/sliverappbar.dart" target="_blank">SliverAppBar</a></p>
         </div>
     </td>
     <td>
