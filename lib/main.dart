@@ -70,7 +70,8 @@ class MyApp extends StatelessWidget {
       //home: const MyStepper(),
       //home: const MyFittedBox(),
       //home: const MyShowSearch(),
-      home: const Myadaptive(),
+      //home: const Myadaptive(),
+      home: const MyStreamBuilder(),
     );
   }
 }
