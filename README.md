@@ -435,5 +435,37 @@ Playlist URL:
         </div>
     </td>
   </tr>
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/55_stepper.gif" height="250px"/>
+            <p><a href="/lib/55_stepper/stepper.dart" target="_blank">Stepper</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/56_fitted_box.png" height="250px"/>
+            <p><a href="/lib/56_fitted_box/fitted_box.dart" target="_blank">FittedBox</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/57_show_search.gif" height="250px"/>
+            <p><a href="/lib/57_show_search/show_search.dart" target="_blank">showSearch</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/58_.adaptive.png" height="250px"/>
+            <p><a href="/lib/58_.adaptive/adaptive.dart" target="_blank">.adaptive</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/59_stream_builder.gif" height="250px"/>
+            <p><a href="/lib/59_stream_builder/stream_builder.dart" target="_blank">StreamBuilder</a></p>
+        </div>
+    </td>
+  </tr>
 
 </table>
