@@ -11,7 +11,7 @@ Playlist URL:
 5. [YouTube](https://www.youtube.com/watch?v=1ToqYMSnNhA)[CustomPaint]
 6. [YouTube](https://www.youtube.com/watch?v=n2Dav9ONJsY)[DataTable]
 7. [YouTube](https://www.youtube.com/watch?v=GsmP-NzXXa0)[Hero_Animation]
-8. [YouTube](https://www.youtube.com/watch?v=M9J-JJOuyE0)[Stepper_to_]
+8. [YouTube](https://www.youtube.com/watch?v=M9J-JJOuyE0)[Stepper_To_SelectableText]
 
 ## Widgets List:
 
@@ -73,7 +73,8 @@ Playlist URL:
 52. [DropDown&Popup](/lib/52_dropdown_&_popupmenu/dropdown_n_popupmenu.dart) > See the code
 53. [HeroAnimation](/lib/53_hero_animation/hero_animation.dart) > tag: item in both pages
 54. [AboutDialog](/lib/54_aboutdialog/aboutdialog.dart) > ElevatedButton > onPressed > showAboutDialog
-55. [Stepper](lib/55_stepper/stepper.dart) > int _currentStep = 0 > Stepper > Step (with title: & content:) > onStepTapped > currentStep: _currentStep > onStepContinue > onStepCancel
+55. [Stepper](/lib/55_stepper/stepper.dart) > int \_currentStep = 0 > Stepper > Step (with title: & content:) > onStepTapped > currentStep: \_currentStep > onStepContinue > onStepCancel
+56. [FittedBox](/lib/56_fitted_box/fitted_box.dart) > Fit text inside a container
 
 ## Screenshots:
 

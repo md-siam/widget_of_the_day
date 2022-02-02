@@ -54,3 +54,4 @@ export '52_dropdown_&_popupmenu/dropdown_n_popupmenu.dart';
 export '53_hero_animation/hero_animation.dart';
 export '54_aboutdialog/aboutdialog.dart';
 export '55_stepper/stepper.dart';
+export '56_fitted_box/fitted_box.dart';
