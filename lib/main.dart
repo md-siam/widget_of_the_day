@@ -69,7 +69,8 @@ class MyApp extends StatelessWidget {
       //home: const MyAboutDialog(),
       //home: const MyStepper(),
       //home: const MyFittedBox(),
-      home: const MyShowSearch(),
+      //home: const MyShowSearch(),
+      home: const Myadaptive(),
     );
   }
 }
