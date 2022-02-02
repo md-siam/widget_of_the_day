@@ -78,6 +78,7 @@ Playlist URL:
 57. [show Search](/lib/57_show_search/show_search.dart) > AppBar > actions > IconButton > onPressed: () {showSearch()}
 58. [.adaptive](/lib/58_.adaptive/adaptive.dart) > Slider.adaptive > SwitchListTile.adaptive > Switch.adaptive > Icon(Icons.adaptive.share) > CircularProgressIndicator.adaptive()
 59. [StreamBuilder](/lib/59_stream_builder/stream_builder.dart) > StreamBuilder > stream > initialData > builder
+60. [ChoiceChip](/lib/60_choice_chip/choice_chip.dart) > ChoiceChip > avatar > label > selected > onSelected
 
 ## Screenshots:
 

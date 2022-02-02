@@ -71,7 +71,8 @@ class MyApp extends StatelessWidget {
       //home: const MyFittedBox(),
       //home: const MyShowSearch(),
       //home: const Myadaptive(),
-      home: const MyStreamBuilder(),
+      //home: const MyStreamBuilder(),
+      home: const MyChoiceChip(),
     );
   }
 }

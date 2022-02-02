@@ -58,3 +58,4 @@ export '56_fitted_box/fitted_box.dart';
 export '57_show_search/show_search.dart';
 export '58_.adaptive/adaptive.dart';
 export '59_stream_builder/stream_builder.dart';
+export '60_choice_chip/choice_chip.dart';
