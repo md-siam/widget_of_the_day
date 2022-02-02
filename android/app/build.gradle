@@ -43,6 +43,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        multiDexEnabled true
         applicationId "com.example.widget_of_the_day"
         minSdkVersion flutter.minSdkVersion
         targetSdkVersion flutter.targetSdkVersion

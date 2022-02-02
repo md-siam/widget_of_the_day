@@ -68,7 +68,8 @@ class MyApp extends StatelessWidget {
       //home: const MyHeroAnimation(),
       //home: const MyAboutDialog(),
       //home: const MyStepper(),
-      home: const MyFittedBox(),
+      //home: const MyFittedBox(),
+      home: const MyShowSearch(),
     );
   }
 }
