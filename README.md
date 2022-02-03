@@ -83,6 +83,11 @@ Playlist URL:
 62. [ExpansionTile](/lib/62_expansion_tile/expansion_tile.dart) > ExpansionTile > title > children: > ListTile
 63. [RangeSlider](/lib/63_range_slider/range_slider.dart) > RangeSlider > values > divisions > labels > onChanged:
 64. [showModelBottomSheet](/lib/64_show_modelbottomsheet/show_modelbottomsheet.dart) > showModalBottomSheet > context: context, > builder: (BuildContext context) > return > SizedBox
+65. [AnimatedCrossFade](/lib/65_animated_cross_fade/animated_cross_fade.dart) > AnimatedCrossFade > firstChild > secondChild > crossFadeState > duration
+66. [Flexible](/lib/66_flexible/flexible.dart) > Flexible > flex > fit
+67. [FutureBuilder](/lib/67_future_builder/future_builder.dart) > FutureBuilder > future: getData() > builder
+68. [GridPaper](/lib/68_grid_paper/grid_paper.dart) > GridPaper > color: Colors.deepPurple
+69. [InteractiveViewer](/lib/69_interactive_viewer/interactive_viewer.dart) > InteractiveViewer > maxScale > child: Image.asset()
 
 ## Screenshots:
 
@@ -500,6 +505,38 @@ Playlist URL:
         <div style="text-align: center;">
             <img src="screenshots/64_show_modelbottomsheet.gif" height="250px"/>
             <p><a href="/lib/64_show_modelbottomsheet/show_modelbottomsheet.dart" target="_blank">showMode_Bott_Sh</a></p>
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/65_animated_cross_fade.gif" height="250px"/>
+            <p><a href="/lib/65_animated_cross_fade/animated_cross_fade.dart" target="_blank">AnimatedCrossFade</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/66_flexible.png" height="250px"/>
+            <p><a href="/lib/66_flexible/flexible.dart" target="_blank">Flexible</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/67_future_builder.gif" height="250px"/>
+            <p><a href="/lib/67_future_builder/future_builder.dart" target="_blank">FutureBuilder</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/68_grip_paper.png" height="250px"/>
+            <p><a href="/lib/68_grid_paper/grid_paper.dart" target="_blank">GridPaper</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/69_interactive_viewer.gif" height="250px"/>
+            <p><a href="/lib/69_interactive_viewer/interactive_viewer.dart" target="_blank">InteractiveViewer</a></p>
         </div>
     </td>
   </tr>
