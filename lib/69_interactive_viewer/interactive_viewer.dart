@@ -16,11 +16,12 @@ class _MyInteractiveViewerState extends State<MyInteractiveViewer> {
         height: double.infinity,
         width: double.infinity,
         child: FittedBox(
+          fit: BoxFit.cover,
           child: InteractiveViewer(
+            boundaryMargin: const EdgeInsets.all(double.infinity),
             maxScale: 50,
             child: Image.asset('assets/images/bangladesh_map.jpg'),
           ),
-          fit: BoxFit.cover,
         ),
       ),
     );
