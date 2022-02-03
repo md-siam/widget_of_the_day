@@ -499,7 +499,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/64_show_modelbottomsheet.gif" height="250px"/>
-            <p><a href="/lib/64_show_modelbottomsheet/show_modelbottomsheet.dart" target="_blank">showModelBottomSheet</a></p>
+            <p><a href="/lib/64_show_modelbottomsheet/show_modelbottomsheet.dart" target="_blank">showModelBottomSh</a></p>
         </div>
     </td>
   </tr>
