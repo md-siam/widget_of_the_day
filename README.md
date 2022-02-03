@@ -79,6 +79,10 @@ Playlist URL:
 58. [.adaptive](/lib/58_.adaptive/adaptive.dart) > Slider.adaptive > SwitchListTile.adaptive > Switch.adaptive > Icon(Icons.adaptive.share) > CircularProgressIndicator.adaptive()
 59. [StreamBuilder](/lib/59_stream_builder/stream_builder.dart) > StreamBuilder > stream > initialData > builder
 60. [ChoiceChip](/lib/60_choice_chip/choice_chip.dart) > ChoiceChip > avatar > label > selected > onSelected
+61. [Wrap](/lib/61_wrap/wrap.dart) > Wrap > children:
+62. [ExpansionTile](/lib/62_expansion_tile/expansion_tile.dart) > ExpansionTile > title > children: > ListTile
+63. [RangeSlider](/lib/63_range_slider/range_slider.dart) > RangeSlider > values > divisions > labels > onChanged:
+64. [showModelBottomSheet](/lib/64_show_modelbottomsheet/show_modelbottomsheet.dart) > showModalBottomSheet > context: context, > builder: (BuildContext context) > return > SizedBox
 
 ## Screenshots:
 
@@ -464,6 +468,38 @@ Playlist URL:
         <div style="text-align: center;">
             <img src="screenshots/59_stream_builder.gif" height="250px"/>
             <p><a href="/lib/59_stream_builder/stream_builder.dart" target="_blank">StreamBuilder</a></p>
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/60_choice_chip.gif" height="250px"/>
+            <p><a href="/lib/60_choice_chip/choice_chip.dart" target="_blank">ChoiceChip</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/61_wrap.png" height="250px"/>
+            <p><a href="/lib/61_wrap/wrap.dart" target="_blank">Wrap</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/62_expansion_tile.gif" height="250px"/>
+            <p><a href="/lib/62_expansion_tile/expansion_tile.dart" target="_blank">ExpansionTile</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/63_range_slider.gif" height="250px"/>
+            <p><a href="/lib/63_range_slider/range_slider.dart" target="_blank">RangeSlider</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/64_show_modelbottomsheet.gif" height="250px"/>
+            <p><a href="/lib/64_show_modelbottomsheet/show_modelbottomsheet.dart" target="_blank">showModelBottomSheet</a></p>
         </div>
     </td>
   </tr>
