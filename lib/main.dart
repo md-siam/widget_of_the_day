@@ -81,7 +81,12 @@ class MyApp extends StatelessWidget {
       //home: const MyFlexible(),
       //home: const MyFutureBuilder(),
       //home: const MyGridPaper(),
-      home: const MyInteractiveViewer(),
+      //home: const MyInteractiveViewer(),
+      //home: const MyCheckboxListTile(),
+      //home: const MySelectableText(),
+      //home: const MyAnimatedPadding(),
+      //home: const MyRefreshIndicator(),
+      home: const MyImageFiltered(),
     );
   }
 }

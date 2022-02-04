@@ -80,14 +80,19 @@ Playlist URL:
 59. [StreamBuilder](/lib/59_stream_builder/stream_builder.dart) > StreamBuilder > stream > initialData > builder
 60. [ChoiceChip](/lib/60_choice_chip/choice_chip.dart) > ChoiceChip > avatar > label > selected > onSelected
 61. [Wrap](/lib/61_wrap/wrap.dart) > Wrap > children:
-62. [ExpansionTile](/lib/62_expansion_tile/expansion_tile.dart) > ExpansionTile > title > children: > ListTile
-63. [RangeSlider](/lib/63_range_slider/range_slider.dart) > RangeSlider > values > divisions > labels > onChanged:
+62. [ExpansionTile](/lib/62_expansion_tile/expansion_tile.dart) > title > children: > ListTile
+63. [RangeSlider](/lib/63_range_slider/range_slider.dart) > values > divisions > labels > onChanged:
 64. [showModelBottomSheet](/lib/64_show_modelbottomsheet/show_modelbottomsheet.dart) > showModalBottomSheet > context: context, > builder: (BuildContext context) > return > SizedBox
-65. [AnimatedCrossFade](/lib/65_animated_cross_fade/animated_cross_fade.dart) > AnimatedCrossFade > firstChild > secondChild > crossFadeState > duration
-66. [Flexible](/lib/66_flexible/flexible.dart) > Flexible > flex > fit
+65. [AnimatedCrossFade](/lib/65_animated_cross_fade/animated_cross_fade.dart) > firstChild > secondChild > crossFadeState > duration
+66. [Flexible](/lib/66_flexible/flexible.dart) > flex > fit
 67. [FutureBuilder](/lib/67_future_builder/future_builder.dart) > FutureBuilder > future: getData() > builder
-68. [GridPaper](/lib/68_grid_paper/grid_paper.dart) > GridPaper > color: Colors.deepPurple
-69. [InteractiveViewer](/lib/69_interactive_viewer/interactive_viewer.dart) > InteractiveViewer > maxScale > child: Image.asset()
+68. [GridPaper](/lib/68_grid_paper/grid_paper.dart) > color: Colors.deepPurple
+69. [InteractiveViewer](/lib/69_interactive_viewer/interactive_viewer.dart) > maxScale > child: Image.asset()
+70. [CheckboxListTile](/lib/70_checkbox_list_tile/checkbox_list_tile.dart) > title > subtitle > value
+71. [SelectableText](/lib/71_selectable_text/selectable_text.dart) > SelectableText > see code
+72. [AnimatedPadding](/lib/72_animated_padding/animated_padding.dart) > padding: EdgeInsets.all(padValue) > duration
+73. [RefreshIndicator](/lib/73_refresh_indicator/refresh_indicator.dart) > color > backgroundColor > onRefresh
+74. [ImageFiltered](/lib/74_image_filtered/image_filtered.dart) > import 'dart:ui'; > ImageFiltered > imageFilter: ImageFilter.blur(sigmaX: 8),
 
 ## Screenshots:
 
@@ -537,6 +542,38 @@ Playlist URL:
         <div style="text-align: center;">
             <img src="screenshots/69_interactive_viewer.gif" height="250px"/>
             <p><a href="/lib/69_interactive_viewer/interactive_viewer.dart" target="_blank">InteractiveViewer</a></p>
+        </div>
+    </td>
+  </tr>
+   <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/70_checkbox_list_tile.gif" height="250px"/>
+            <p><a href="/lib/70_checkbox_list_tile/checkbox_list_tile.dart" target="_blank">CheckboxListTile</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/71_selectable_text.gif" height="250px"/>
+            <p><a href="/lib/71_selectable_text/selectable_text.dart" target="_blank">SelectableText</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/72_animated_padding.gif" height="250px"/>
+            <p><a href="/lib/72_animated_padding/animated_padding.dart" target="_blank">AnimatedPadding</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/73_refresh_indicator.gif" height="250px"/>
+            <p><a href="/lib/73_refresh_indicator/refresh_indicator.dart" target="_blank">RefreshIndicator</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/74_image_filtered.png" height="250px"/>
+            <p><a href="/lib/74_image_filtered/image_filtered.dart" target="_blank">ImageFiltered</a></p>
         </div>
     </td>
   </tr>
