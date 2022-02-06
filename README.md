@@ -93,6 +93,11 @@ Playlist URL:
 72. [AnimatedPadding](/lib/72_animated_padding/animated_padding.dart) > padding: EdgeInsets.all(padValue) > duration
 73. [RefreshIndicator](/lib/73_refresh_indicator/refresh_indicator.dart) > color > backgroundColor > onRefresh
 74. [ImageFiltered](/lib/74_image_filtered/image_filtered.dart) > import 'dart:ui'; > ImageFiltered > imageFilter: ImageFilter.blur(sigmaX: 8),
+75. [AspectRatio](/lib/75_aspect_ratio/aspect_ratio.dart) > aspectRatio: 3 / 2 > child
+76. [ToggleButton](/lib/76_toggle_button/toggle_button.dart) > children:[] > isSelected > onPressed
+77. [Physical Model](/lib/77_physical_model/physical_model.dart) > color > elevation
+78. [Align](/lib/78_align/align.dart) > Container > child: > Align > alignment: Alignment(0.60, -0.80)
+79. [SafeArea](/lib/79_safe_area/safe_area.dart) > Scaffold > body: > SafeArea
 
 ## Screenshots:
 
@@ -574,6 +579,38 @@ Playlist URL:
         <div style="text-align: center;">
             <img src="screenshots/74_image_filtered.png" height="250px"/>
             <p><a href="/lib/74_image_filtered/image_filtered.dart" target="_blank">ImageFiltered</a></p>
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/75_aspect_ratio.png" height="250px"/>
+            <p><a href="/lib/75_aspect_ratio/aspect_ratio.dart" target="_blank">AspectRatio</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/76_toggle_button.gif" height="250px"/>
+            <p><a href="/lib/76_toggle_button/toggle_button.dart" target="_blank">ToggleButton</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/77_physical_model.png" height="250px"/>
+            <p><a href="/lib/77_physical_model/physical_model.dart" target="_blank">PhysicalModel</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/78_align.png" height="250px"/>
+            <p><a href="/lib/78_align/align.dart" target="_blank">Align</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/79_safe_area.png" height="250px"/>
+            <p><a href="/lib/79_safe_area/safe_area.dart" target="_blank">SafeArea</a></p>
         </div>
     </td>
   </tr>

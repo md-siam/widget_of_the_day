@@ -86,7 +86,12 @@ class MyApp extends StatelessWidget {
       //home: const MySelectableText(),
       //home: const MyAnimatedPadding(),
       //home: const MyRefreshIndicator(),
-      home: const MyImageFiltered(),
+      //home: const MyImageFiltered(),
+      //home: const MyAspectRatio(),
+      //home: const MyToggleButton(),
+      //home: const MyPhysicalModel(),
+      //home: const MyAlign(),
+      home: const MySafeArea(),
     );
   }
 }
