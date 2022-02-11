@@ -29,20 +29,52 @@ class _MyDropDownNPopupMenuState extends State<MyDropDownNPopupMenu> {
         title: const Text('Dropdown & PopupMenu'),
         actions: [
           PopupMenuButton<int>(
+            icon: const Icon(Icons.arrow_drop_down_circle),
             onSelected: (item) => onSelected(context, item),
+            offset: Offset.fromDirection(-14, -50),
+            shape: const RoundedRectangleBorder(
+              borderRadius: BorderRadius.all(Radius.circular(8.0)),
+            ),
             itemBuilder: (context) => [
-              const PopupMenuItem<int>(
+              PopupMenuItem<int>(
                 value: 0,
-                child: Text('Settings'),
+                child: Row(
+                  children: const [
+                    Icon(
+                      Icons.settings,
+                      color: Colors.black38,
+                    ),
+                    SizedBox(width: 4.0),
+                    Text('Settings'),
+                  ],
+                ),
               ),
-              const PopupMenuItem<int>(
+              PopupMenuItem<int>(
                 value: 1,
-                child: Text('Share'),
+                child: Row(
+                  children: const [
+                    Icon(
+                      Icons.share,
+                      color: Colors.black38,
+                    ),
+                    SizedBox(width: 4.0),
+                    Text('Share'),
+                  ],
+                ),
               ),
               const PopupMenuDivider(),
-              const PopupMenuItem<int>(
+              PopupMenuItem<int>(
                 value: 2,
-                child: Text('Sign Out'),
+                child: Row(
+                  children: const [
+                    Icon(
+                      Icons.logout,
+                      color: Colors.black38,
+                    ),
+                    SizedBox(width: 4.0),
+                    Text('Sign Out'),
+                  ],
+                ),
               ),
             ],
           )

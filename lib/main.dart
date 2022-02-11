@@ -64,7 +64,7 @@ class MyApp extends StatelessWidget {
       //home: const MyGestetureNInk(),
       //home: const MyMaterial(),
       //home: const MySwitches(),
-      //home: const MyDropDownNPopupMenu(),
+      home: const MyDropDownNPopupMenu(),
       //home: const MyHeroAnimation(),
       //home: const MyAboutDialog(),
       //home: const MyStepper(),
@@ -91,7 +91,7 @@ class MyApp extends StatelessWidget {
       //home: const MyToggleButton(),
       //home: const MyPhysicalModel(),
       //home: const MyAlign(),
-      home: const MySafeArea(),
+      //home: const MySafeArea(),
     );
   }
 }
