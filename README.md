@@ -641,7 +641,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/83_reorderable_list_view.gif" height="250px"/>
-            <p><a href="/lib/83_reorderable_list_view/reorderable_list_view.dart" target="_blank">ReorderleLitView</a></p>
+            <p><a href="/lib/83_reorderable_list_view/reorderable_list_view.dart" target="_blank">ReodleListView</a></p>
         </div>
     </td>
     <td>
