@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:widget_of_the_day/84_fade_transition/fade_transition.dart';
 import 'routes.dart';
 
 void main() => runApp(const MyApp());
@@ -64,7 +65,7 @@ class MyApp extends StatelessWidget {
       //home: const MyGestetureNInk(),
       //home: const MyMaterial(),
       //home: const MySwitches(),
-      home: const MyDropDownNPopupMenu(),
+      //home: const MyDropDownNPopupMenu(),
       //home: const MyHeroAnimation(),
       //home: const MyAboutDialog(),
       //home: const MyStepper(),
@@ -92,6 +93,11 @@ class MyApp extends StatelessWidget {
       //home: const MyPhysicalModel(),
       //home: const MyAlign(),
       //home: const MySafeArea(),
+      //home: const MyPageRouteBuilder(),
+      //home: const MyDraggable(),
+      //home: const MyBackdropFilter(),
+      //home: const MyReorderableListView(),
+      home: const MyFadeTransition(),
     );
   }
 }

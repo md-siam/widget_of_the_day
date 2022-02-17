@@ -98,6 +98,11 @@ Playlist URL:
 77. [Physical Model](/lib/77_physical_model/physical_model.dart) > color > elevation
 78. [Align](/lib/78_align/align.dart) > Container > child: > Align > alignment: Alignment(0.60, -0.80)
 79. [SafeArea](/lib/79_safe_area/safe_area.dart) > Scaffold > body: > SafeArea
+80. [PagerouteBuilder](/lib/80_pageroute_builder/pageroute_builder.dart) > check code
+81. [Draggable](/lib/81_draggable/draggable.dart) > DragTarget<Color> > onAccept > builder 
+82. [BackdropFilter](/lib/82_backdrop_filter/backdrop_filter.dart) > Stack > Image.asset > Positioned > BackdropFilter > ImageFilter.blur()
+83. [ReorderableListView](/lib/83_reorderable_list_view/reorderable_list_view.dart) > itemCount > onReorder > itemBuilder
+84. [FadeTransition](/lib/84_fade_transition/fade_transition.dart) > FadeTransition > opacity: _animation!
 
 ## Screenshots:
 
@@ -611,6 +616,38 @@ Playlist URL:
         <div style="text-align: center;">
             <img src="screenshots/79_safe_area.png" height="250px"/>
             <p><a href="/lib/79_safe_area/safe_area.dart" target="_blank">SafeArea</a></p>
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/80_pageroute_builder.gif" height="250px"/>
+            <p><a href="/lib/80_pageroute_builder/pageroute_builder.dart" target="_blank">PageRouteBuilder</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/81_draggable.gif" height="250px"/>
+            <p><a href="/lib/81_draggable/draggable.dart" target="_blank">Draggable</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/82_backdrop_filter.png" height="250px"/>
+            <p><a href="/lib/82_backdrop_filter/backdrop_filter.dart" target="_blank">BackdropFilter</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/83_reorderable_list_view.gif" height="250px"/>
+            <p><a href="/lib/83_reorderable_list_view/reorderable_list_view.dart" target="_blank">ReorderableListView</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/84_fade_transition.gif" height="250px"/>
+            <p><a href="/lib/84_fade_transition/fade_transition.dart" target="_blank">FadeTransition</a></p>
         </div>
     </td>
   </tr>
