@@ -63,6 +63,8 @@ flutter:
     - assets/images/marvel_heroes/
     - assets/images/animals/
     - assets/images/safe_area/
+    - assets/images/profile_pic/
+    - assets/images/background_image/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

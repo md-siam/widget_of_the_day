@@ -99,10 +99,15 @@ Playlist URL:
 78. [Align](/lib/78_align/align.dart) > Container > child: > Align > alignment: Alignment(0.60, -0.80)
 79. [SafeArea](/lib/79_safe_area/safe_area.dart) > Scaffold > body: > SafeArea
 80. [PagerouteBuilder](/lib/80_pageroute_builder/pageroute_builder.dart) > check code
-81. [Draggable](/lib/81_draggable/draggable.dart) > DragTarget<Color> > onAccept > builder 
+81. [Draggable](/lib/81_draggable/draggable.dart) > DragTarget<Color> > onAccept > builder
 82. [BackdropFilter](/lib/82_backdrop_filter/backdrop_filter.dart) > Stack > Image.asset > Positioned > BackdropFilter > ImageFilter.blur()
 83. [ReorderableListView](/lib/83_reorderable_list_view/reorderable_list_view.dart) > itemCount > onReorder > itemBuilder
-84. [FadeTransition](/lib/84_fade_transition/fade_transition.dart) > FadeTransition > opacity: _animation!
+84. [FadeTransition](/lib/84_fade_transition/fade_transition.dart) > FadeTransition > opacity: \_animation!
+85. [CircleAvatar](/lib/85_circle_avatar/circle_avatar.dart) > radius: > backgroundImage: AssetImage()
+86. [Tooltip](/lib/86_tooltip/tooltip.dart) > message: > verticalOffset: > height: > Child:
+87. [Visibility](/lib/87_visibility/visibility.dart) > visible: isVisible > child: Image.asset('')
+88. [IndexedStack](/lib/88_indexed_stack/indexed_stack.dart) > index: index > children:
+89. [Navigator 2.0](/lib/89_navigator_2.0/navigator_2.0.dart) > See code
 
 ## Screenshots:
 
@@ -140,7 +145,7 @@ Playlist URL:
     </td>
   </tr>
   <tr>
-  <td>
+    <td>
         <div style="text-align: center;">
             <img src="screenshots/5_single_child_scrollview.gif" height="250px"/>
             <p><a href="/lib/5_single_child_scroll_view/single_child_scroll_view.dart" target="_blank">SingleChildScrollView</a></p>
@@ -651,5 +656,36 @@ Playlist URL:
         </div>
     </td>
   </tr>
-
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/85_circle_avatar.png" height="250px"/>
+            <p><a href="/lib/85_circle_avatar/circle_avatar.dart" target="_blank">CircleAvatar</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/86_tooltip.gif" height="250px"/>
+            <p><a href="/lib/86_tooltip/tooltip.dart" target="_blank">Tooltip</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/87_visibility.gif" height="250px"/>
+            <p><a href="/lib/87_visibility/visibility.dart" target="_blank">Visibility</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/88_indexed_stack.gif" height="250px"/>
+            <p><a href="/lib/88_indexed_stack/indexed_stack.dart" target="_blank">IndexedStack</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/89_navigator_2.0.gif" height="250px"/>
+            <p><a href="/lib/89_navigator_2.0/navigator_2.0.dart" target="_blank">Navigator 2.0</a></p>
+        </div>
+    </td>
+  </tr>
 </table>
