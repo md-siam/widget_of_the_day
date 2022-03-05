@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
       //home: const MyFloatingActionButton(),
       //home: const MyRawMaterialButton(),
       //home: const MyIconButton(),
-      //home: const MyNavigator(),      //* Imperative navigation
+      //home: const MyNavigator(),        //* Imperative navigation
       //home: const MyCard(),
       //home: const MyCustomClipper(),
       //home: const MyRotatedBox(),
@@ -101,7 +101,7 @@ class MyApp extends StatelessWidget {
       //home: const MyTooltip(),
       //home: const MyVisibility(),
       //home: const MyIndexedStack(),
-      home: const MyNavigator2(), //* Declarative navigation
+      home: const MyNavigator2(),          //* Declarative navigation
     );
   }
 }
