@@ -1,3 +1,10 @@
+// Copyright (c) 2022, Md. Siam
+// http://mdsiam.xyz/
+//
+// Use of this source code is governed by an MIT-style
+// license that can be found in the LICENSE file or at
+// https://choosealicense.com/licenses/mit/
+
 import 'package:flutter/material.dart';
 import 'routes.dart';
 
@@ -55,7 +62,7 @@ class MyApp extends StatelessWidget {
       //home: const MyClipOval(),
       //home: const MyClipRRect(),
       //home: const MyClipRect(),
-      //home: const MyClipPath(),
+      home: const MyClipPath(),
       //home: const MyRadialNSeepGradient(),
       //home: const MyStatufulWidget(number: 0),
       //home: const MyTable(),
@@ -101,7 +108,7 @@ class MyApp extends StatelessWidget {
       //home: const MyTooltip(),
       //home: const MyVisibility(),
       //home: const MyIndexedStack(),
-      home: const MyNavigator2(),          //* Declarative navigation
+      //home: const MyNavigator2(),          //* Declarative navigation
     );
   }
 }

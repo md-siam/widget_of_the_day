@@ -1,6 +1,12 @@
 name: widget_of_the_day
 description: A new Flutter project.
 
+# Copyright (c) 2022, Md. Siam
+# http://mdsiam.xyz/
+#
+# Use of this source code is governed by an MIT-style
+# license that can be found in the LICENSE file or at
+# https://choosealicense.com/licenses/mit/
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
