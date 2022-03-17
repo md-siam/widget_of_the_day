@@ -17,6 +17,7 @@ Playlist URL:
 6. [YouTube](https://www.youtube.com/watch?v=n2Dav9ONJsY) [DataTable]
 7. [YouTube](https://www.youtube.com/watch?v=GsmP-NzXXa0) [Hero_Animation]
 8. [YouTube](https://www.youtube.com/watch?v=M9J-JJOuyE0) [Stepper_To_SelectableText]
+9. [YouTube](https://www.youtube.com/watch?v=xuatM4pZkNk&list=LL&index=2) [ClipPath (Bezier Curves)]
 
 ## Widgets List:
 
@@ -46,7 +47,7 @@ Playlist URL:
 21. [Stack](/lib/21_stack/stack.dart) > alignment: Alignment.center (default Alignment.topLeft)
 22. [TextField](/lib/22_textfield/textfield.dart) > StatefulWidget > \_textController > TextField > controller: \_textController > decoration > onPressed > suffixIcon > \_textController.clear() > Expanded > userPost
 23. [AnimatedIcon](/lib/23_animated_icon/animated_icon.dart) > StatefulWidget > with SingleTickerProviderStateMixin > late AnimationController \_animationController > Read the code
-24. [Slider](/lib/24_slider/slider.dart) > StatefulWidget > Slider(value: value, onChanged: onChanged) > Many color parapeter of the Slider widget
+24. [Slider](/lib/24_slider/slider.dart) > StatefulWidget > Slider(value: value, onChanged: onChanged) > Many color parameters of the Slider widget
 25. [DatePicker](/lib/25_date_picker/date_picker.dart) > StatefulWidget > DateTime variable > \_showDatePicker > Read the code
 26. [TimePicker](/lib/26_time_picker/time_picker.dart) > StatefulWidget > TimeOfDay variable > \_showTimePicker > Read the code
 27. [ListWheelScrollView](/lib/27_listwheelscrollview/listwheelscrollview.dart) > StatefulWidget > itemExtent > perspective > diameterRatio > physics: const FixedExtentScrollPhysics() > onSelectedItemChanged > Read the code
@@ -66,7 +67,7 @@ Playlist URL:
 40. [ClipOval](/lib/40_clipoval/clipoval.dart) > Image.asset > height & width should be same > fit: BoxFit.cover
 41. [ClipRRect](/lib/41_cliprrect/cliprrect.dart) > borderRadius > Image.asset
 42. [ClipRect](/lib/42_cliprect/cliprect.dart) > Image.asset
-43. [ClipPath](/lib/43_clippath/clippath.dart) > Image.asset > clipper: > Draw the ClipPath
+43. [ClipPath](/lib/43_clippath/clippath.dart) > ClipPath > clipper: CustomClipPath() > Path getClip(Size size){} > shouldReclip(CustomClipper< Path> oldClipper)
 44. [Radial & Sweep Gradient](/lib/44_radial_gradient/radial_n_sweep_gradient.dart) > Container > decoration > gradient> RadialGradient / SweepGradient
 45. [StatefulWidget](/lib/45_stateful_widget/stateful_widget.dart) > createState() > initState() > didChangeDependencies() > didUpdateWidget() > deactivate() > dispose() > setState((){'actions'})
 46. [Table](/lib/46_table/table.dart) > border > columnWidths > textDirection > children > TableRow > children
@@ -312,7 +313,7 @@ Playlist URL:
   <tr>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/30_floating_action_btton.png" height="250px"/>
+            <img src="screenshots/30_floating_action_button.png" height="250px"/>
             <p><a href="/lib/30_floating_action_button/floating_action_button.dart" target="_blank">FloatingActionButton</a></p>
         </div>
     </td>
@@ -394,7 +395,7 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/43_clippath.gif" height="250px"/>
+            <img src="screenshots/43_clippath.png" height="250px"/>
             <p><a href="/lib/43_clippath/clippath.dart" target="_blank">ClipPath</a></p>
         </div>
     </td>

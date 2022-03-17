@@ -1,77 +1,57 @@
 import 'package:flutter/material.dart';
 
-class MyClipPath extends StatelessWidget {
+class MyClipPath extends StatefulWidget {
   const MyClipPath({Key? key}) : super(key: key);
 
   @override
+  State<MyClipPath> createState() => _MyClipPathState();
+}
+
+class _MyClipPathState extends State<MyClipPath> {
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Clip Path')),
-      body: SingleChildScrollView(
-        child: Center(
-          child: Column(
-            children: [
-              const SizedBox(height: 20.0),
-              ClipPath(
-                clipper: TriangleClipper(),
-                child: Image.asset(
-                  'assets/images/marvel_heroes/thor.jpeg',
-                  height: 300,
-                  width: 300,
-                  fit: BoxFit.cover,
-                ),
-              ),
-              const SizedBox(height: 20.0),
-              ClipPath(
-                clipper: HexagonClipper(),
-                child: Image.asset(
-                  'assets/images/marvel_heroes/hulk.jpeg',
-                  height: 300,
-                  width: 300,
-                  fit: BoxFit.cover,
-                ),
-              ),
-            ],
+      body: ClipPath(
+        clipper: CustomClipPath(),
+        child: Container(
+          color: Colors.red,
+          child: const Center(
+            child: Text(
+              'Clip Path',
+              style: TextStyle(color: Colors.white, fontSize: 40),
+            ),
           ),
+          height: 400,
         ),
       ),
     );
   }
 }
 
-class TriangleClipper extends CustomClipper<Path> {
+class CustomClipPath extends CustomClipper<Path> {
   @override
   Path getClip(Size size) {
+    double w = size.width;
+    double h = size.height;
+
     final path = Path();
-    path.lineTo(size.width, 0.0);
-    path.lineTo(size.width / 2, size.height);
+
+    // (0, 0) // 1. point
+    path.lineTo(0, h); // 2. Point
+    path.quadraticBezierTo(
+      w * 0.5,
+      h - 100,
+      w,
+      h,
+    ); // 3. Point
+    path.lineTo(w, 0); // 4. Point
     path.close();
-    return path;
-  }
-
-  @override
-  bool shouldReclip(CustomClipper<Path> oldClipper) => false;
-}
-
-class HexagonClipper extends CustomClipper<Path> {
-  @override
-  Path getClip(Size size) {
-    Path path = Path();
-
-    path
-      ..moveTo(size.width / 2, 0) // moving to topCenter 1st, then draw the path
-      ..lineTo(size.width, size.height * .25)
-      ..lineTo(size.width, size.height * .75)
-      ..lineTo(size.width * .5, size.height)
-      ..lineTo(0, size.height * .75)
-      ..lineTo(0, size.height * .25)
-      ..close();
 
     return path;
   }
 
   @override
-  bool shouldReclip(covariant CustomClipper<Path> oldClipper) {
+  bool shouldReclip(CustomClipper<Path> oldClipper) {
     return false;
   }
 }

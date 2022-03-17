@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
       //home: const MyClipOval(),
       //home: const MyClipRRect(),
       //home: const MyClipRect(),
-      home: const MyClipPath(),
+      //home: const MyClipPath(),
       //home: const MyRadialNSeepGradient(),
       //home: const MyStatufulWidget(number: 0),
       //home: const MyTable(),
@@ -108,7 +108,7 @@ class MyApp extends StatelessWidget {
       //home: const MyTooltip(),
       //home: const MyVisibility(),
       //home: const MyIndexedStack(),
-      //home: const MyNavigator2(),          //* Declarative navigation
+      home: const MyNavigator2(),          //* Declarative navigation
     );
   }
 }
