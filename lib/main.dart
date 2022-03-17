@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       //home: const MyExpanded(),
       //home: const MyColumn(),
       //home: const MyRow(),
-      //home: MyListViwe(),
+      //home: MyListView(),
       //home: const MySingleChildScrollView(),
       //home: const MyImageAsset(),
       //home: const MyGridView(),
@@ -77,13 +77,13 @@ class MyApp extends StatelessWidget {
       //home: const MyStepper(),
       //home: const MyFittedBox(),
       //home: const MyShowSearch(),
-      //home: const Myadaptive(),
+      //home: const MyAdaptive(),
       //home: const MyStreamBuilder(),
       //home: const MyChoiceChip(),
       //home: const MyWrap(),
       //home: const MyExpansionTile(),
       //home: const MyRangeSlider(),
-      //home: const MyshowModelBottomSheet(),
+      //home: const MyShowModelBottomSheet(),
       //home: const MyAnimatedCrossFade(),
       //home: const MyFlexible(),
       //home: const MyFutureBuilder(),
@@ -108,7 +108,9 @@ class MyApp extends StatelessWidget {
       //home: const MyTooltip(),
       //home: const MyVisibility(),
       //home: const MyIndexedStack(),
-      home: const MyNavigator2(),          //* Declarative navigation
+      //home: const MyNavigator2(),          //* Declarative navigation
+      //home: MyNullAwareOperators(),
+      home: const MyInheritedWidget(),
     );
   }
 }

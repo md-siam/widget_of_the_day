@@ -6,15 +6,19 @@
     "clippath",
     "cliprect",
     "cliprrect",
+    "Draggable",
+    "Gesteture",
     "gesturdetector",
     "gesturedect",
     "iconbutton",
     "lineargradient",
+    "listview",
     "modelbottomsheet",
     "pageroute",
     "popupmenu",
     "Reclip",
     "Reodle",
-    "reorderable"
+    "reorderable",
+    "Statuful"
   ]
 }

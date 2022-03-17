@@ -18,6 +18,7 @@ Playlist URL:
 7. [YouTube](https://www.youtube.com/watch?v=GsmP-NzXXa0) [Hero_Animation]
 8. [YouTube](https://www.youtube.com/watch?v=M9J-JJOuyE0) [Stepper_To_SelectableText]
 9. [YouTube](https://www.youtube.com/watch?v=xuatM4pZkNk&list=LL&index=2) [ClipPath (Bezier Curves)]
+10. [YouTube](https://www.youtube.com/watch?v=utrvu-eow6U) [InheritedWidget]
 
 ## Widgets List:
 

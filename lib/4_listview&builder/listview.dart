@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:widget_of_the_day/4_listview&builder/circle.dart';
 import 'package:widget_of_the_day/4_listview&builder/square.dart';
 
-class MyListViwe extends StatelessWidget {
-  MyListViwe({Key? key}) : super(key: key);
+class MyListView extends StatelessWidget {
+  MyListView({Key? key}) : super(key: key);
 
   final List _post = [
     'post 1',
