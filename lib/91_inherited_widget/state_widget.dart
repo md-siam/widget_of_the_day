@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 
+/// this is the [StatefulWidget] which has access
+/// of  `StateInheritedWidget` below
+///
 class StateWidget extends StatefulWidget {
   final Widget child;
   const StateWidget({
