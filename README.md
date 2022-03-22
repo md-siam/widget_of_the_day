@@ -30,7 +30,7 @@ Playlist URL:
 5. [SingleChildScrollView](/lib/5_single_child_scroll_view/single_child_scroll_view.dart) > scrollDirection > padding > physics
 6. [Image.Asset](/lib/6_image.asset/image_asset.dart) > fit (BoxFit.cover) > place it inside a Container widget for rounded corners
 7. [Gridview](/lib/7_gridview&builder/gridview.dart) > Builder > crossAxisCount (no. of box in the horizontal)
-8. [GestureDetector](/lib/8_gesturedetector/gesturedetector.dart) > onTap:()=>{'action'} > Keep functional logic seperated from UI
+8. [GestureDetector](/lib/8_gesturedetector/gesturedetector.dart) > onTap:()=>{'action'} > Keep functional logic separated from UI
 9. [BottomNavBar](/lib/9_bottom-nav_bar/bottomnavbar.dart) > StateStatefulWidget > type: BottomNavigationBarType.fixed > List of pages
 10. [AppBar](/lib/10_appbar/appbar.dart) > backgroundColor: Colors.transparent > leading (left positioned)> actions (right positioned)
 11. [Drawer](/lib/11_drawer/drawer.dart) > Always in ListView > DrawerHeader > ListTile > endDrawer (drawer on right side)
@@ -115,6 +115,11 @@ Playlist URL:
 87. [Visibility](/lib/87_visibility/visibility.dart) > visible: isVisible > child: Image.asset('')
 88. [IndexedStack](/lib/88_indexed_stack/indexed_stack.dart) > index: index > children:
 89. [Navigator 2.0](/lib/89_navigator_2.0/navigator_2.0.dart) > See code
+90. [Null Aware Operators](/lib/90_null_aware_operators/null_aware_operators.dart) > See code
+91. [Cascade Operator](/lib/91_cascade_operator/cascade_operator.dart) > See code
+92. [Inherited Widget](/lib/92_inherited_widget/inherited_widget.dart) > See code
+93. [Fractionally Sizedbox](/lib/93_fractionally_sizedbox/fractionally_sizedbox.dart)
+94. [Constrained Box](/lib/94_constrained_box/constrained_box.dart) > See code
 
 ## Screenshots:
 
@@ -692,6 +697,38 @@ Playlist URL:
         <div style="text-align: center;">
             <img src="screenshots/89_navigator_2.0.gif" height="250px"/>
             <p><a href="/lib/89_navigator_2.0/navigator_2.0.dart" target="_blank">Navigator 2.0</a></p>
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/90_null_aware_operators.png" height="250px"/>
+            <p><a href="/lib/90_null_aware_operators/null_aware_operators.dart" target="_blank">Null Aware Operators</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/91_cascade_operator.png" height="250px"/>
+            <p><a href="/lib/91_cascade_operator/cascade_operator.dart" target="_blank">Cascade Operator</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/92_inherited_widget.gif" height="250px"/>
+            <p><a href="/lib/92_inherited_widget/inherited_widget.dart" target="_blank">Inherited Widget</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/93_fractionally_sizedbox.png" height="250px"/>
+            <p><a href="/lib/93_fractionally_sizedbox/fractionally_sizedbox.dart" target="_blank">FractionallySizedbox</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/94_constrained_box.png" height="250px"/>
+            <p><a href="/lib/94_constrained_box/constrained_box.dart" target="_blank">ConstrainedBox</a></p>
         </div>
     </td>
   </tr>
