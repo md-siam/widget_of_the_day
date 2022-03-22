@@ -722,7 +722,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/93_fractionally_sizedbox.png" height="250px"/>
-            <p><a href="/lib/93_fractionally_sizedbox/fractionally_sizedbox.dart" target="_blank">Frac. Sizedbox</a></p>
+            <p><a href="/lib/93_fractionally_sizedbox/fractionally_sizedbox.dart" target="_blank">Fract.Sizedbox</a></p>
         </div>
     </td>
     <td>
