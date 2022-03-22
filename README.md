@@ -704,7 +704,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/90_null_aware_operators.png" height="250px"/>
-            <p><a href="/lib/90_null_aware_operators/null_aware_operators.dart" target="_blank">Null Aware Ope</a></p>
+            <p><a href="/lib/90_null_aware_operators/null_aware_operators.dart" target="_blank">Null Aware Opera.</a></p>
         </div>
     </td>
     <td>
@@ -722,7 +722,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/93_fractionally_sizedbox.png" height="250px"/>
-            <p><a href="/lib/93_fractionally_sizedbox/fractionally_sizedbox.dart" target="_blank">FractionallySizedbox</a></p>
+            <p><a href="/lib/93_fractionally_sizedbox/fractionally_sizedbox.dart" target="_blank">Frac. Sizedbox</a></p>
         </div>
     </td>
     <td>
