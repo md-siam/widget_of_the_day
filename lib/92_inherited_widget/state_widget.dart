@@ -23,6 +23,12 @@ class _StateWidgetState extends State<StateWidget> {
     });
   }
 
+  void resetCounter() {
+    setState(() {
+      counter = 0;
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return StateInheritedWidget(

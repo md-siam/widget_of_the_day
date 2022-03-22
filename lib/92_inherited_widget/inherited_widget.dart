@@ -40,10 +40,9 @@ class HomePage extends StatelessWidget {
             ),
             const SizedBox(height: 47),
             ElevatedButton(
-              onPressed: () => Navigator.push(
-                context,
+              onPressed: () => Navigator.of(context).push(
                 MaterialPageRoute(
-                  builder: (BuildContext context) => CounterPage(),
+                  builder: (context) => const CounterPage(),
                 ),
               ),
               child: const Text('Change Counter'),

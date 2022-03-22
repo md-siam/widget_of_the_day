@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import '../state_widget.dart';
 
 class CounterPage extends StatefulWidget {
-  CounterPage({
+  const CounterPage({
     Key? key,
   }) : super(key: key);
 
@@ -32,6 +32,14 @@ class _CounterPageState extends State<CounterPage> {
               onPressed: () {
                 final provider = StateInheritedWidget.of(context)!;
                 provider.incrementCounter();
+              },
+            ),
+            const SizedBox(height: 24),
+            ElevatedButton(
+              child: const Text('↻  R E S E T'),
+              onPressed: () {
+                final provider = StateInheritedWidget.of(context)!;
+                provider.resetCounter();
               },
             ),
             const SizedBox(height: 24),
