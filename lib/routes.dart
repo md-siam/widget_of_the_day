@@ -100,3 +100,4 @@ export '91_cascade_operator/cascade_operator.dart';
 export '92_inherited_widget/inherited_widget.dart';
 export '93_fractionally_sizedbox/fractionally_sizedbox.dart';
 export '94_constrained_box/constrained_box.dart';
+export '95_cupertino_search_text_field/cupertino_search_text_field.dart';
