@@ -120,6 +120,12 @@ Playlist URL:
 92. [Inherited Widget](/lib/92_inherited_widget/inherited_widget.dart) > See code
 93. [Fractionally Sizedbox](/lib/93_fractionally_sizedbox/fractionally_sizedbox.dart)
 94. [Constrained Box](/lib/94_constrained_box/constrained_box.dart) > See code
+95. [Cupertino Search](/lib/95_cupertino_search_text_field/cupertino_search_text_field.dart) > late TextEditingController \_textController
+    > CupertinoSearchTextField > placeholder > controller
+96. [Stateful Builder](/lib/96_stateful_builder/stateful_builder.dart) > builder: (context, internalState) > internalState(() { counter++;})
+97. [Layout Builder](/lib/97_layout_builder/layout_builder.dart) > builder: (BuildContext context, BoxConstraints constraints){ return }
+98. [Orientation Builder](/lib/98_orientation_builder/orientation_builder.dart) > builder: (context, orientation){}
+99. [Platform Detect](/lib/99_platform_detect/platform_detect.dart) > import 'dart:io' show Platform;
 
 ## Screenshots:
 
@@ -729,6 +735,38 @@ Playlist URL:
         <div style="text-align: center;">
             <img src="screenshots/94_constrained_box.png" height="250px"/>
             <p><a href="/lib/94_constrained_box/constrained_box.dart" target="_blank">ConstrainedBox</a></p>
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/95_cupertino_search_text_field.gif" height="250px"/>
+            <p><a href="/lib/95_cupertino_search_text_field/cupertino_search_text_field.dart" target="_blank">CupertinoSearch</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/96_stateful_builder.gif" height="250px"/>
+            <p><a href="/lib/96_stateful_builder/stateful_builder.dart" target="_blank">Stateful Builder</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/97_layout_builder.png" height="250px"/>
+            <p><a href="/lib/97_layout_builder/layout_builder.dart" target="_blank">Layout Builder</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/98_orientation_builder.gif" height="250px"/>
+            <p><a href="/lib/98_orientation_builder/orientation_builder.dart" target="_blank">OrientationBuilder</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/99_platform_detect.png" height="250px"/>
+            <p><a href="/lib/99_platform_detect/platform_detect.dart" target="_blank">Platform Detect</a></p>
         </div>
     </td>
   </tr>

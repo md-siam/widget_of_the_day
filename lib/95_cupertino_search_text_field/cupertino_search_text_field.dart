@@ -26,7 +26,7 @@ class _MyCupertinoSearchState extends State<MyCupertinoSearch> {
       body: Column(
         children: [
           Padding(
-            padding: const EdgeInsets.all(8.0),
+            padding: const EdgeInsets.only(top: 15.0, right: 8.0, left: 8.0),
             child: CupertinoSearchTextField(
               placeholder: 'Search is on',
               controller: _textController,

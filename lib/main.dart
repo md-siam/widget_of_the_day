@@ -114,7 +114,11 @@ class MyApp extends StatelessWidget {
       //home: const MyInheritedWidget(),
       //home: const MyFractionallySizedBox(),
       //home: const MyConstrainedBox(),
-      home: const MyCupertinoSearch(),
+      //home: const MyCupertinoSearch(),
+      //home: const MyStatefulBuilder(),
+      //home: const MyLayoutBuilder(), //* Open in Chrome
+      //home: const MyOrientationBuilder(), //* For Portrait & Landscape view
+      home: const MyPlatformDetect(),
     );
   }
 }
