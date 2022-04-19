@@ -120,8 +120,7 @@ Playlist URL:
 92. [Inherited Widget](/lib/92_inherited_widget/inherited_widget.dart) > See code
 93. [Fractionally Sizedbox](/lib/93_fractionally_sizedbox/fractionally_sizedbox.dart)
 94. [Constrained Box](/lib/94_constrained_box/constrained_box.dart) > See code
-95. [Cupertino Search](/lib/95_cupertino_search_text_field/cupertino_search_text_field.dart) > late TextEditingController \_textController
-    > CupertinoSearchTextField > placeholder > controller
+95. [Cupertino Search](/lib/95_cupertino_search_text_field/cupertino_search_text_field.dart) > late TextEditingController textController > CupertinoSearchTextField > placeholder > controller
 96. [Stateful Builder](/lib/96_stateful_builder/stateful_builder.dart) > builder: (context, internalState) > internalState(() { counter++;})
 97. [Layout Builder](/lib/97_layout_builder/layout_builder.dart) > builder: (BuildContext context, BoxConstraints constraints){ return }
 98. [Orientation Builder](/lib/98_orientation_builder/orientation_builder.dart) > builder: (context, orientation){}
