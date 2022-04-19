@@ -759,7 +759,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/98_orientation_builder.gif" height="250px"/>
-            <p><a href="/lib/98_orientation_builder/orientation_builder.dart" target="_blank">Orientation Bu.</a></p>
+            <p><a href="/lib/98_orientation_builder/orientation_builder.dart" target="_blank">Orientation Builder</a></p>
         </div>
     </td>
     <td>
