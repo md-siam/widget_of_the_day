@@ -84,7 +84,7 @@ Playlist URL:
 56. [FittedBox](/lib/56_fitted_box/fitted_box.dart) > Fit text inside a container
 57. [show Search](/lib/57_show_search/show_search.dart) > AppBar > actions > IconButton > onPressed: () {showSearch()}
 58. [.adaptive](/lib/58_.adaptive/adaptive.dart) > Slider.adaptive > SwitchListTile.adaptive > Switch.adaptive > Icon(Icons.adaptive.share) > CircularProgressIndicator.adaptive()
-59. [StreamBuilder](/lib/59_stream_builder/stream_builder.dart) > StreamBuilder > stream > initialData > builder
+59. [Scrollbar](/lib/59_scrollbar/scrollbar.dart) > isAlwaysShown: true > thickness: 10 > ListView.builder / GridView.builder
 60. [ChoiceChip](/lib/60_choice_chip/choice_chip.dart) > ChoiceChip > avatar > label > selected > onSelected
 61. [Wrap](/lib/61_wrap/wrap.dart) > Wrap > children:
 62. [ExpansionTile](/lib/62_expansion_tile/expansion_tile.dart) > title > children: > ListTile
@@ -92,7 +92,7 @@ Playlist URL:
 64. [showModelBottomSheet](/lib/64_show_modelbottomsheet/show_modelbottomsheet.dart) > showModalBottomSheet > context: context, > builder: (BuildContext context) > return > SizedBox
 65. [AnimatedCrossFade](/lib/65_animated_cross_fade/animated_cross_fade.dart) > firstChild > secondChild > crossFadeState > duration
 66. [Flexible](/lib/66_flexible/flexible.dart) > flex > fit
-67. [FutureBuilder](/lib/67_future_builder/future_builder.dart) > FutureBuilder > future: getData() > builder
+67. [Spacer](/lib/67_spacer/spacer.dart) > flex: 1
 68. [GridPaper](/lib/68_grid_paper/grid_paper.dart) > color: Colors.deepPurple
 69. [InteractiveViewer](/lib/69_interactive_viewer/interactive_viewer.dart) > maxScale > child: Image.asset()
 70. [CheckboxListTile](/lib/70_checkbox_list_tile/checkbox_list_tile.dart) > title > subtitle > value
@@ -508,8 +508,8 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/59_stream_builder.gif" height="250px"/>
-            <p><a href="/lib/59_stream_builder/stream_builder.dart" target="_blank">StreamBuilder</a></p>
+            <img src="screenshots/59_scrollbar.gif" height="250px"/>
+            <p><a href="/lib/59_scrollbar/scrollbar.dart" target="_blank">Scrollbar</a></p>
         </div>
     </td>
   </tr>
@@ -560,8 +560,8 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/67_future_builder.gif" height="250px"/>
-            <p><a href="/lib/67_future_builder/future_builder.dart" target="_blank">FutureBuilder</a></p>
+            <img src="screenshots/67_spacer.png" height="250px"/>
+            <p><a href="/lib/67_spacer/spacer.dart" target="_blank">Spacer</a></p>
         </div>
     </td>
     <td>

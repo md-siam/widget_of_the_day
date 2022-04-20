@@ -78,7 +78,7 @@ class MyApp extends StatelessWidget {
       //home: const MyFittedBox(),
       //home: const MyShowSearch(),
       //home: const MyAdaptive(),
-      //home: const MyStreamBuilder(),
+      //home: const MyScrollbar(),
       //home: const MyChoiceChip(),
       //home: const MyWrap(),
       //home: const MyExpansionTile(),
@@ -86,7 +86,7 @@ class MyApp extends StatelessWidget {
       //home: const MyShowModelBottomSheet(),
       //home: const MyAnimatedCrossFade(),
       //home: const MyFlexible(),
-      //home: const MyFutureBuilder(),
+      home: const MySpacer(),
       //home: const MyGridPaper(),
       //home: const MyInteractiveViewer(),
       //home: const MyCheckboxListTile(),
@@ -118,7 +118,7 @@ class MyApp extends StatelessWidget {
       //home: const MyStatefulBuilder(),
       //home: const MyLayoutBuilder(), //* Open in Chrome
       //home: const MyOrientationBuilder(), //* For Portrait & Landscape view
-      home: const MyPlatformDetect(),
+      //home: const MyPlatformDetect(),
     );
   }
 }
