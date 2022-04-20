@@ -86,7 +86,7 @@ class MyApp extends StatelessWidget {
       //home: const MyShowModelBottomSheet(),
       //home: const MyAnimatedCrossFade(),
       //home: const MyFlexible(),
-      home: const MySpacer(),
+      //home: const MySpacer(),
       //home: const MyGridPaper(),
       //home: const MyInteractiveViewer(),
       //home: const MyCheckboxListTile(),
@@ -119,6 +119,8 @@ class MyApp extends StatelessWidget {
       //home: const MyLayoutBuilder(), //* Open in Chrome
       //home: const MyOrientationBuilder(), //* For Portrait & Landscape view
       //home: const MyPlatformDetect(),
+      //home: const MyFutureBuilder(),
+      home: const MyStreamBuilder(),
     );
   }
 }

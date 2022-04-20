@@ -125,6 +125,8 @@ Playlist URL:
 97. [Layout Builder](/lib/97_layout_builder/layout_builder.dart) > builder: (BuildContext context, BoxConstraints constraints){ return }
 98. [Orientation Builder](/lib/98_orientation_builder/orientation_builder.dart) > builder: (context, orientation){}
 99. [Platform Detect](/lib/99_platform_detect/platform_detect.dart) > import 'dart:io' show Platform;
+100. [FutureBuilder](/lib/100_future_builder/future_builder.dart) > FutureBuilder > future: getData() > builder
+101. [StreamBuilder](/lib/101_stream_builder/stream_builder.dart) > StreamBuilder > stream > initialData > builder
 
 ## Screenshots:
 
@@ -766,6 +768,38 @@ Playlist URL:
         <div style="text-align: center;">
             <img src="screenshots/99_platform_detect.png" height="250px"/>
             <p><a href="/lib/99_platform_detect/platform_detect.dart" target="_blank">Platform Detect</a></p>
+        </div>
+    </td>
+  </tr>  ------------------
+  <tr>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/100_future_builder.gif" height="250px"/>
+            <p><a href="/lib/100_future_builder/future_builder.dart" target="_blank">FutureBuilder</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/101_stream_builder.gif" height="250px"/>
+            <p><a href="/lib/101_stream_builder/stream_builder.dart" target="_blank">StreamBuilder</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/0_blank.png" height="250px"/>
+            <p><a href="/lit_builder.dart" target="_blank">Lfghfghr</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/0_blank.png" height="250px"/>
+            <p><a href="/liblder.dart" target="_blank">Orilder</a></p>
+        </div>
+    </td>
+    <td>
+        <div style="text-align: center;">
+            <img src="screenshots/0_blank.png" height="250px"/>
+            <p><a href="/li.dart" target="_blank">Plect</a></p>
         </div>
     </td>
   </tr>
