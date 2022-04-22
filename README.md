@@ -796,7 +796,7 @@ Playlist URL:
     <td>
         <div style="text-align: center;">
             <img src="screenshots/103_value_notifier.gif" height="250px"/>
-            <p><a href="/lib/103_value_notifier/value_notifier.dart" target="_blank">ValueNotifier & VLB</a></p>
+            <p><a href="/lib/103_value_notifier/value_notifier.dart" target="_blank">ValueNotifier</a></p>
         </div>
     </td>
     <td>
