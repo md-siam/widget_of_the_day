@@ -107,3 +107,6 @@ export '98_orientation_builder/orientation_builder.dart';
 export '99_platform_detect/platform_detect.dart';
 export '100_future_builder/future_builder.dart';
 export '101_stream_builder/stream_builder.dart';
+export '102_change_notifier/change_notifier.dart';
+export '103_value_notifier/value_notifier.dart';
+export '104_inherited_notifier/inherited_notifier.dart';

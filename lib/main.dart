@@ -120,7 +120,10 @@ class MyApp extends StatelessWidget {
       //home: const MyOrientationBuilder(), //* For Portrait & Landscape view
       //home: const MyPlatformDetect(),
       //home: const MyFutureBuilder(),
-      home: const MyStreamBuilder(),
+      //home: const MyStreamBuilder(),
+      //home: const MyChangeNotifier(),
+      //home: const MyValueNotifier(),
+      home: const MyInheritedNotifier(),
     );
   }
 }

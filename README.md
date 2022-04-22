@@ -127,6 +127,9 @@ Playlist URL:
 99. [Platform Detect](/lib/99_platform_detect/platform_detect.dart) > import 'dart:io' show Platform;
 100. [FutureBuilder](/lib/100_future_builder/future_builder.dart) > FutureBuilder > future: getData() > builder
 101. [StreamBuilder](/lib/101_stream_builder/stream_builder.dart) > StreamBuilder > stream > initialData > builder
+102. [ChangeNotifier](/lib/102_change_notifier/change_notifier.dart) > CNController extends ChangeNotifier > notifyListeners()
+103. [ValueNotifier](/lib/103_value_notifier/value_notifier.dart) > final ValueNotifier< int> count = ValueNotifier< int>(0) > ValueListenableBuilder()
+104. [InheritedNotifier](/lib/104_inherited_notifier/inherited_notifier.dart) > Read code
 
 ## Screenshots:
 
@@ -770,7 +773,7 @@ Playlist URL:
             <p><a href="/lib/99_platform_detect/platform_detect.dart" target="_blank">Platform Detect</a></p>
         </div>
     </td>
-  </tr>  ------------------
+  </tr>
   <tr>
     <td>
         <div style="text-align: center;">
@@ -786,20 +789,20 @@ Playlist URL:
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/0_blank.png" height="250px"/>
-            <p><a href="/lit_builder.dart" target="_blank">Lfghfghr</a></p>
+            <img src="screenshots/102_change_notifier.gif" height="250px"/>
+            <p><a href="/lib/102_change_notifier/change_notifier.dart" target="_blank">ChangeNotifier</a></p>
         </div>
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/0_blank.png" height="250px"/>
-            <p><a href="/liblder.dart" target="_blank">Orilder</a></p>
+            <img src="screenshots/103_value_notifier.gif" height="250px"/>
+            <p><a href="/lib/103_value_notifier/value_notifier.dart" target="_blank">ValueNotifier & VLB</a></p>
         </div>
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/0_blank.png" height="250px"/>
-            <p><a href="/li.dart" target="_blank">Plect</a></p>
+            <img src="screenshots/104_inherited_notifier.gif" height="250px"/>
+            <p><a href="/lib/104_inherited_notifier/inherited_notifier.dart" target="_blank">InheritedNotifier</a></p>
         </div>
     </td>
   </tr>

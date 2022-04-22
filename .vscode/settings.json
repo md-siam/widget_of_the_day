@@ -1,6 +1,7 @@
 {
   "cSpell.words": [
     "aboutdialog",
+    "alertdialog",
     "animatedcontainer",
     "Bezier",
     "bottomnavbar",
@@ -37,6 +38,7 @@
     "sliverappbar",
     "Statuful",
     "tabbar",
-    "textfield"
+    "textfield",
+    "vsync"
   ]
 }
