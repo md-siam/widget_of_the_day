@@ -123,7 +123,8 @@ class MyApp extends StatelessWidget {
       //home: const MyStreamBuilder(),
       //home: const MyChangeNotifier(),
       //home: const MyValueNotifier(),
-      home: const MyInheritedNotifier(),
+      //home: const MyInheritedNotifier(),
+      home: const MyListener(),
     );
   }
 }
