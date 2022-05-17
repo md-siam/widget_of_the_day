@@ -27,13 +27,24 @@ class _MyChangeNotifierState extends State<MyChangeNotifier> {
     return Scaffold(
       appBar: AppBar(title: const Text('Change Notifier')),
       body: Center(
-        child: Text(
-          '$_counter',
-          style: const TextStyle(
-            color: Colors.grey,
-            fontSize: 60,
-            fontWeight: FontWeight.bold,
-          ),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            const Text(
+              'Incrementing & Decrementing\nusing\nChange Notifier',
+              style: TextStyle(fontSize: 20),
+              textAlign: TextAlign.center,
+            ),
+            const SizedBox(height: 20),
+            Text(
+              '$_counter',
+              style: const TextStyle(
+                color: Colors.grey,
+                fontSize: 60,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ],
         ),
       ),
       floatingActionButton: Row(

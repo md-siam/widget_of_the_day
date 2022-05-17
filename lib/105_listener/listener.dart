@@ -46,7 +46,11 @@ class _MyListenerState extends State<MyListener> {
             onPointerMove: _updateLocation,
             onPointerUp: _incrementUp,
             child: Container(
-              color: Colors.lightBlueAccent,
+              padding: const EdgeInsets.all(10.0),
+              decoration: BoxDecoration(
+                color: Colors.purple[100],
+                borderRadius: BorderRadius.circular(10.0),
+              ),
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
