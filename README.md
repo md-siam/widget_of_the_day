@@ -135,7 +135,7 @@ Playlist URL:
 106. [Builder](/lib/106_builder/builder.dart) > Read code
 107. [PageView.builder](/lib/107_pageview_builder/pageview_builder.dart) > Read code
 108. [AnimationBuilder](/lib/108_animated_builder/animated_builder.dart) > Read code
-109. [SnackVar](/lib/109_snack_bar/snack_bar.dart) > Read code
+109. [SnackBar](/lib/109_snack_bar/snack_bar.dart) > Read code
 
 ## Screenshots:
 
