@@ -111,3 +111,7 @@ export '102_change_notifier/change_notifier.dart';
 export '103_value_notifier/value_notifier.dart';
 export '104_inherited_notifier/inherited_notifier.dart';
 export '105_listener/listener.dart';
+export 'package:widget_of_the_day/106_builder/builder.dart';
+export '107_pageview_builder/pageview_builder.dart';
+export 'package:widget_of_the_day/108_animated_builder/animated_builder.dart';
+export 'package:widget_of_the_day/109_snack_bar/snack_bar.dart';

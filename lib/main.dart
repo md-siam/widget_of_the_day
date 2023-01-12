@@ -124,7 +124,11 @@ class MyApp extends StatelessWidget {
       //home: const MyChangeNotifier(),
       //home: const MyValueNotifier(),
       //home: const MyInheritedNotifier(),
-      home: const MyListener(),
+      //home: const MyListener(),
+      //home: const MyBuilder(),
+      //home: const MyPageViewBuilder(),
+      //home: const MyAnimationBuilder(),
+      home: const MySnackBar(),
     );
   }
 }
