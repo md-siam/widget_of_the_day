@@ -131,6 +131,11 @@ Playlist URL:
 102. [ChangeNotifier](/lib/102_change_notifier/change_notifier.dart) > CNController extends ChangeNotifier > notifyListeners()
 103. [ValueNotifier](/lib/103_value_notifier/value_notifier.dart) > final ValueNotifier< int> count = ValueNotifier< int>(0) > ValueListenableBuilder()
 104. [InheritedNotifier](/lib/104_inherited_notifier/inherited_notifier.dart) > Read code
+105. [Listener](/lib/105_listener/listener.dart) > Read code
+106. [Builder](/lib/106_builder/builder.dart) > Read code
+107. [PageView.builder](/lib/107_pageview_builder/pageview_builder.dart) > Read code
+108. [AnimationBuilder](/lib/108_animated_builder/animated_builder.dart) > Read code
+109. [SnackVar](/lib/109_snack_bar/snack_bar.dart) > Read code
 
 ## Screenshots:
 
