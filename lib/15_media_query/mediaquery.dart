@@ -14,11 +14,11 @@ class MyMediaQuery extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
             Text(
-              'Height: ' + MediaQuery.of(context).size.height.toString(),
+              'Height: ${MediaQuery.of(context).size.height}',
               style: const TextStyle(fontSize: 24),
             ),
             Text(
-              'Width: ' + MediaQuery.of(context).size.width.toString(),
+              'Width: ${MediaQuery.of(context).size.width}',
               style: const TextStyle(fontSize: 24),
             ),
             Text(

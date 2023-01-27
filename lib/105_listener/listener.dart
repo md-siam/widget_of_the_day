@@ -62,7 +62,7 @@ class _MyListenerState extends State<MyListener> {
                   const SizedBox(height: 60),
                   Text(
                     '$_downCounter presses\n$_upCounter releases',
-                    style: Theme.of(context).textTheme.headline4,
+                    style: Theme.of(context).textTheme.headlineMedium,
                   ),
                   const SizedBox(height: 60),
                   Text(

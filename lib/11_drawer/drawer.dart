@@ -48,7 +48,7 @@ class MyDrawer extends StatelessWidget {
           ),
         ),
       ),
-      endDrawer: Drawer(),
+      endDrawer: const Drawer(),
     );
   }
 }

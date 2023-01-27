@@ -8,7 +8,7 @@ class MyDatePicker extends StatefulWidget {
 }
 
 class _MyDatePickerState extends State<MyDatePicker> {
-  // create datetime variable
+  // create date time variable
   DateTime _dateTime = DateTime.now();
 
   // show date picker method
@@ -35,7 +35,7 @@ class _MyDatePickerState extends State<MyDatePicker> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
-            //display choosen date
+            //display chosen date
             Text(
               _dateTime.toString(),
               style: const TextStyle(fontSize: 20, color: Colors.black),

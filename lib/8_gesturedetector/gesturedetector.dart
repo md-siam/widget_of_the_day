@@ -28,7 +28,7 @@ class _MyGestureDetectorState extends State<MyGestureDetector> {
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
             Text(
-              'Tapped ' + numberOfTimesTapped.toString() + ' times',
+              'Tapped $numberOfTimesTapped times',
               style: const TextStyle(fontSize: 39),
             ),
             GestureDetector(

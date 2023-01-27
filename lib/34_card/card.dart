@@ -113,11 +113,11 @@ class MyCard extends StatelessWidget {
                       'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1327&q=80',
                     ),
                     colorFilter: ColorFilters.greyscale,
+                    height: 240,
+                    fit: BoxFit.cover,
                     child: InkWell(
                       onTap: () {},
                     ),
-                    height: 240,
-                    fit: BoxFit.cover,
                   ),
                   const Text(
                     'Card With Splash',
@@ -145,11 +145,11 @@ class MyCard extends StatelessWidget {
                         image: const NetworkImage(
                           'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1327&q=80',
                         ),
+                        height: 240,
+                        fit: BoxFit.cover,
                         child: InkWell(
                           onTap: () {},
                         ),
-                        height: 240,
-                        fit: BoxFit.cover,
                       ),
                       const Positioned(
                         bottom: 16,

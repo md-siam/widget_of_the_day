@@ -15,13 +15,13 @@ class _MyClipPathState extends State<MyClipPath> {
         clipper: CustomClipPath(),
         child: Container(
           color: Colors.red,
+          height: 400,
           child: const Center(
             child: Text(
               'Clip Path',
               style: TextStyle(color: Colors.white, fontSize: 40),
             ),
           ),
-          height: 400,
         ),
       ),
     );
