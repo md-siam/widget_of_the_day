@@ -16,9 +16,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
       title: 'Widget of the day!',
-      theme: ThemeData(primarySwatch: Colors.purple),
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        useMaterial3: false,
+        primarySwatch: Colors.purple,
+      ),
       //home: const MyContainer(),
       //home: const MyExpanded(),
       //home: const MyColumn(),
